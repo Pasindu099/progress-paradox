@@ -1,0 +1,9 @@
+file_name,rows,cols,columns,year_min,year_max,missing_%,variable_name,unit,higher_is_better
+access-drinking-water-stacked.csv,5622,8,"Entity, Code, Year, Share of the population using safely managed drinking water services, Share of the population using only basic drinking water services, Share of the population using limited drinking water services...",2000.0,2022.0,9.51,water_access_pct,% population,True
+child-mortality.csv,16835,4,"Entity, Code, Year, Child mortality rate",1751.0,2023.0,0.92,child_mortality_per_1000,"deaths per 1,000 live births",False
+infant-mortality.csv,13577,4,"Entity, Code, Year, Infant mortality rate of babies aged under one year, per 100 live births",1932.0,2023.0,1.06,infant_mortality_per_1000,"deaths per 1,000 live births",False
+life-expectancy.csv,21565,4,"Entity, Code, Year, Period life expectancy at birth",1543.0,2023.0,2.27,life_expectancy_years,years,True
+mortality-from-ncds-sdgs.csv,4356,4,"Entity, Code, Year, Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",2000.0,2021.0,1.52,ncd_mortality_sdg_per_100k,"deaths per 100,000",False
+ncd mortality rate.csv,4070,34,"IndicatorCode, Indicator, ValueType, ParentLocationCode, ParentLocation, Location type...",,,41.01,ncd_mortality_per_100k,"deaths per 100,000",False
+share-of-adults-defined-as-obese.csv,6798,4,"Entity, Code, Year, Prevalence of obesity among adults, BMI >= 30 (crude estimate) (%) - Sex: both sexes - Age group: 18+  years of age",1990.0,2022.0,0.73,obesity_share_adults_pct,% adults,False
+share-of-out-of-pocket-expenditure-vs-gdp-per-capita.csv,59294,7,"Entity, Code, Year, Out-of-pocket expenditure (% of current health expenditure), GDP per capita, PPP (constant 2021 international $), Population (historical)...",-10000.0,2024.0,40.95,oop_share_health_exp_pct,% of total health expenditure,False
