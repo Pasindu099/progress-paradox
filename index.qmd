@@ -1,0 +1,528 @@
+---
+title: "Global Health Trends: Evidence of Progress — and Emerging New Threats"
+subtitle: "How Infrastructre Investments Transformed -and Challenged Global Health"
+author: "Pasindu Perera | Nitin Theegala"
+format:
+  html:
+    
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: show
+    code-summary: "Show technical details"
+execute:
+  echo: true
+  warning: false
+  message: false
+jupyter: python3
+---
+
+
+# Introduction
+
+Over the past two decades, global health outcomes have improved significantly across many dimensions.
+Life expectancy has increased worldwide, child and infant mortality rates have declined, and access
+to essential services such as safe drinking water has expanded.
+
+However, these improvements have not come without new challenges. Alongside these gains, obesity
+rates have risen globally, driven by urbanization, changing diets, and increasingly sedentary
+lifestyles. This section examines this **double-edged nature of progress**, where development solves
+long-standing health problems while simultaneously introducing new health risks.
+
+
+
+
+## Load required libraries
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.set_style("whitegrid")
+```
+
+
+## Load dataset
+
+```{python}
+df_health = pd.read_csv("./data/processed/health_merged.csv")
+df_final = pd.read_csv("./data/processed/merged_final_clean.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Health Outcomes and the Global Progress Paradox
+ 
+Infrastructure development has long been associated with improved living conditions and better health outcomes. Increased access to clean water, electricity, healthcare facilities, and sanitation has contributed to longer life expectancy and reduced mortality worldwide.
+
+However, improvements in health have not been uniform, nor have they been without unintended consequences. This section examines how global health outcomes have evolved alongside development and highlights the emerging paradox between longevity and modern health burdens.
+
+## Uneven Health Outcomes Across the World
+
+Before analyzing trends over time, it is essential to understand how key health indicators are distributed globally. While some countries experience consistently high life expectancy and low mortality, others continue to face severe health challenges.
+
+The following distributions illustrate the global spread of major health indicators, including life expectancy, mortality rates, obesity prevalence, and access to clean water.
+
+
+```{python}
+numeric_cols = [
+    'life_expectancy', 'child_mortality_rate', 'infant_mortality_rate',
+    'ncd_mortality', 'obesity_rate', 'water_access_total'
+]
+
+plt.figure(figsize=(14, 10))
+for i, col in enumerate(numeric_cols, 1):
+    plt.subplot(3, 2, i)
+    sns.histplot(df_health[col], kde=True, color="#2E86AB")
+    plt.title(f"Distribution of {col.replace('_', ' ').title()}")
+plt.tight_layout()
+plt.show()
+```
+
+
+## Long-Term Improvements and Emerging Risks
+
+Global health indicators have shown substantial improvement over the past two decades. Life expectancy has steadily increased, while child mortality rates have declined, reflecting progress in healthcare access, nutrition, and public health interventions.
+
+At the same time, not all trends point in a positive direction. Rising obesity rates indicate the emergence of non-communicable diseases as a major global health concern.
+
+
+
+```{python}
+# | label: fig-health-panel
+# | fig-cap: "Global Health & Well-being: Progress Over Time (1990–2022)"
+
+# 1. Define the palette dictionary locally to avoid NameError
+palette = {
+    "Life expectancy": "#2E86AB",
+    "Child mortality rate": "#E74C3C",
+    "Obesity rate": "#F5B041",
+    "Water access total": "#27AE60",
+}
+
+# 2. Prepare trend data
+trend_df = df_health.groupby("year")[['life_expectancy', 'child_mortality_rate', 'obesity_rate', 'water_access_total']].mean().reset_index()
+
+fig, axes = plt.subplots(2, 2, figsize=(16, 10))
+
+# Life Expectancy
+sns.lineplot(ax=axes[0,0], data=trend_df, x="year", y="life_expectancy", color=palette["Life expectancy"], linewidth=3)
+axes[0,0].set_title("Rising Global Life Expectancy")
+
+# Child Mortality
+sns.lineplot(ax=axes[0,1], data=trend_df, x="year", y="child_mortality_rate", color=palette["Child mortality rate"], linewidth=3)
+axes[0,1].set_title("Decline in Child Mortality Rate")
+
+# Water Access
+sns.lineplot(ax=axes[1,0], data=trend_df, x="year", y="water_access_total", color=palette["Water access total"], linewidth=3)
+axes[1,0].set_title("Improvement in Safe Water Access")
+
+# Obesity
+sns.lineplot(ax=axes[1,1], data=trend_df, x="year", y="obesity_rate", color=palette["Obesity rate"], linewidth=3)
+axes[1,1].set_title("Rising Obesity Among Adults")
+
+plt.tight_layout()
+plt.show()
+```
+Taken together, these trends suggest that global health has improved in traditional terms. However, progress has introduced new challenges that disproportionately affect developed and rapidly developing regions.
+
+These distributions reveal significant global inequality. Mortality indicators are highly right-skewed, suggesting that a subset of countries bears a disproportionate health burden. In contrast, life expectancy clusters at higher values, masking persistent disparities beneath global averages.
+
+
+
+
+## Where Health Gains Are Concentrated
+
+Health improvements are not evenly distributed across regions. Mapping health indicators over time highlights clear geographic patterns, revealing where progress has been rapid and where it has lagged.
+
+Animated global maps provide insight into how life expectancy and obesity prevalence have evolved spatially over time.
+
+```{python}
+# | label: fig-obesity-evolution
+# | fig-cap: "Interactive: Evolution of Global Obesity Rates"
+
+import plotly.express as px
+
+fig_obesity = px.choropleth(
+    df_health,
+    locations="iso_code",
+    color="obesity_rate",
+    hover_name="country",
+    animation_frame="year",
+    color_continuous_scale="OrRd",
+    range_color=[0, 50],
+    title="Evolution of Global Obesity (1990–2022) [cite: 235]",
+    projection="natural earth"
+)
+fig_obesity.show()
+```
+
+```{python}
+# | label: fig-animated-life-expectancy
+# | fig-cap: "Interactive: Global Life Expectancy Evolution"
+fig_map = px.choropleth(
+    df_health,
+    locations="iso_code",
+    color="life_expectancy",
+    hover_name="country",
+    animation_frame="year",
+    color_continuous_scale="Viridis",
+    range_color=[40, 85],
+    title="Global Life Expectancy Evolution (Animated)",
+    projection="natural earth"
+)
+fig_map.show()
+
+```
+
+These spatial patterns show that regions experiencing the greatest gains in longevity are often the same regions where obesity rates rise most sharply. This overlap signals a shift from infectious diseases toward lifestyle-related health risks.
+
+## When Longer Lives Come with Higher Health Risks
+
+One of the most striking patterns in modern health data is the coexistence of increasing life expectancy and rising obesity rates. Historically, improved health was associated with reduced disease burden. Today, longer lives increasingly coincide with chronic conditions linked to lifestyle and consumption patterns.
+
+To explore this relationship, obesity rates are plotted against life expectancy over time, segmented by region.
+
+```{python}
+# | label: fig-obesity-vs-life-expectancy
+# | fig-cap: "Interactive: Obesity vs. Life Expectancy (Thematic Colors)"
+
+import plotly.express as px
+import pandas as pd
+import numpy as np
+# Convert to numeric and replace NaN/Zero values with a baseline size
+df_health['water_access_total'] = pd.to_numeric(df_health['water_access_total'], errors='coerce')
+df_health['water_access_total'] = df_health['water_access_total'].fillna(5)
+df_health.loc[df_health['water_access_total'] <= 0, 'water_access_total'] = 5
+
+# 2. Regional mapping using Plotly's internal data
+gapminder = px.data.gapminder()[['iso_alpha', 'continent']].drop_duplicates()
+region_map = gapminder.set_index('iso_alpha')['continent'].to_dict()
+region_map.update({
+    'USA': 'Americas', 'CAN': 'Americas', 'BRA': 'Americas',
+    'RUS': 'Europe', 'AUS': 'Oceania', 'CHN': 'Asia', 'IND': 'Asia'
+})
+df_health['region'] = df_health['iso_code'].map(region_map).fillna('Other')
+
+# 3. Define your Custom Color Map
+custom_colors = {
+    "Africa": "#636EFA",
+    "Asia": "#EF553B",
+    "Europe": "#00ffbb",
+    "Americas": "#AB63FA",
+    "Oceania": "#ffea28",
+    "Other": "#3dec37"
+}
+
+# 4. Create the scatter plot
+fig_scatter = px.scatter(
+    df_health,
+    x="obesity_rate",
+    y="life_expectancy",
+    size="water_access_total",
+    color="region", 
+    color_discrete_map=custom_colors,
+    hover_name="country",
+    animation_frame="year",
+    range_x=[0, 70],
+    range_y=[40, 90],
+    title="Obesity vs Life Expectancy Over Time (1990–2022)"
+)
+
+fig_scatter.update_layout(
+    template="plotly_white", 
+    xaxis_title="Obesity Rate (% of adults)",
+    yaxis_title="Life Expectancy (Years)"
+)
+
+fig_scatter.show()
+```
+
+The visualization reveals a clear shift: many countries move upward and to the right over time, indicating simultaneous increases in longevity and obesity. This trend is especially pronounced in high-income regions, highlighting the double-edged nature of development-driven health progress.
+
+
+## Infrastructure as a Driver — but Not a Guarantee
+
+Infrastructure investments are strongly associated with improved health outcomes. Access to clean water, electricity, and modern energy systems correlates with lower mortality and higher life expectancy.
+
+However, these relationships are complex. Correlation analysis helps reveal how infrastructure indicators interact with both positive and negative health outcomes.
+
+```{python}
+# | label: fig-correlation-heatmap
+# | fig-cap: "Pearson Correlation: Relationships between Health and Infrastructure"
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# 1. Define variables to analyze
+corr_vars = [
+    "life_expectancy",
+    "child_mortality_rate",
+    "infant_mortality_rate",
+    "ncd_mortality",
+    "obesity_rate",
+    "water_access_total",
+    "water_inadequate_total",
+    "clean_cooking_access",
+    "electricity_gen_per_capita",
+    "renewables_share",
+    "energy_use_per_capita"
+]
+
+# 2. Filter for existing columns and calculate correlation
+# Note: Ensure you are using the 'merged' dataframe (e.g., df_final)
+available_vars = [v for v in corr_vars if v in df_final.columns]
+corr_df = df_final[available_vars].corr(method="pearson")
+
+# 3. Create the heatmap
+plt.figure(figsize=(14, 10))
+sns.heatmap(
+    corr_df,
+    cmap="RdBu_r",
+    annot=True,
+    fmt=".2f",
+    vmin=-1, vmax=1,
+    linewidths=0.5
+)
+
+plt.title("Correlation Heatmap: Health & Infrastructure Indicators", fontsize=16, weight="bold")
+plt.show()
+```
+
+The correlation patterns suggest that while infrastructure improvements support better health, they are also associated with rising obesity and non-communicable disease risks. This underscores that infrastructure alone does not determine population health.
+
+## Health and Infrastructure Rankings
+
+To better understand cross-country differences, composite health and infrastructure indices provide a comparative perspective. Ranking countries highlights those that achieve strong health outcomes alongside infrastructure development, as well as those where progress is uneven.
+
+The following rankings show the top-performing countries based on average health and infrastructure indices.
+
+```{python}
+# | label: fig-progress-paradox-real-data
+# | fig-cap: "The Progress Paradox: Obesity vs. Life Expectancy (Bubble size = Energy Use)"
+
+import plotly.express as px
+import pandas as pd
+import numpy as np
+# 2. Data Cleaning for 'size' and 'indices'
+# We use 'obesity_rate' as the x-axis since 'infra_index' is missing
+# We use 'life_expectancy' as the y-axis
+df_final['obesity_rate'] = pd.to_numeric(df_final['obesity_rate'], errors='coerce').fillna(0)
+df_final['life_expectancy'] = pd.to_numeric(df_final['life_expectancy'], errors='coerce').fillna(0)
+
+# Clean the size column (Energy Use)
+size_col = "energy_use_per_capita"
+df_final[size_col] = pd.to_numeric(df_final[size_col], errors='coerce').fillna(5)
+df_final.loc[df_final[size_col] <= 0, size_col] = 5
+
+# 3. COMPREHENSIVE REGIONAL MAPPING (Restores the Multi-Color Outcome)
+gapminder_data = px.data.gapminder()[['iso_alpha', 'continent']].drop_duplicates()
+continent_map = gapminder_data.set_index('iso_alpha')['continent'].to_dict()
+
+# Add missing major countries to ensure they aren't all "Other"
+continent_map.update({
+    'USA': 'Americas', 'CAN': 'Americas', 'MEX': 'Americas', 'BRA': 'Americas',
+    'RUS': 'Europe', 'GBR': 'Europe', 'FRA': 'Europe', 'DEU': 'Europe',
+    'CHN': 'Asia', 'IND': 'Asia', 'JPN': 'Asia', 'KOR': 'Asia',
+    'AUS': 'Oceania', 'NZL': 'Oceania',
+    'ZAF': 'Africa', 'NGA': 'Africa', 'EGY': 'Africa', 'ETH': 'Africa'
+})
+
+df_final['region'] = df_final['iso_code'].map(continent_map).fillna('Other')
+
+# 4. Define Custom Color Map (Matches Slide 5 of your presentation)
+custom_colors = {
+    "Africa": "#636EFA", "Asia": "#EF553B", "Europe": "#00CC96",
+    "Americas": "#AB63FA", "Oceania": "#FFA15A", "Other": "#7f7f7f"
+}
+
+# 5. Create the Visualization
+# This uses your REAL data so the points will be spread out, not saturated.
+fig_paradox = px.scatter(
+    df_final,
+    x="obesity_rate",
+    y="life_expectancy",
+    animation_frame="year",
+    animation_group="country",
+    color="region",
+    color_discrete_map=custom_colors, 
+    hover_name="country",
+    size=size_col,
+    size_max=40,
+    range_x=[0, 60], # Spread based on obesity %
+    range_y=[40, 90], # Spread based on years
+    title="The Progress Paradox: Health Burdens vs. Longevity"
+)
+
+fig_paradox.update_layout(
+    template="plotly_white",
+    xaxis_title="Obesity Rate (% of Adults)",
+    yaxis_title="Life Expectancy (Years)",
+    legend_title="Region"
+)
+
+fig_paradox.show()
+```
+
+## Global Inequality: The Infrastructure and Health Gap
+
+While global progress is visible, it is far from uniform. The following dot plots rank the top 100 nations, revealing the significant disparity that exists even among the world's leading performers. The wide horizontal spread between countries demonstrates that "Quality of Life" remains a geography-dependent privilege.
+
+```{python}
+# | label: fig-dot-plot-inequality
+# | fig-cap: "Dot Plot: Global Inequality in Health and Infrastructure (Top 100)"
+# | fig-height: 18
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# 1. Safety Check: Handle missing indices from colleague's work
+# We use proxies so your code doesn't crash during the render
+if 'health_index' not in df_final.columns:
+    df_final['health_index'] = df_final['life_expectancy'] / df_final['life_expectancy'].max()
+
+if 'infra_index' not in df_final.columns:
+    # Using Electricity Generation as a proxy for Infrastructure
+    df_final['infra_index'] = df_final['electricity_gen_per_capita'] / df_final['electricity_gen_per_capita'].max()
+
+fig, axs = plt.subplots(2, 1, figsize=(14, 20))
+
+# ---------- HEALTH DOT PLOT ----------
+health_top100 = (
+    df_final.groupby("country")["health_index"]
+    .mean()
+    .sort_values(ascending=False)
+    .head(100)
+    .reset_index()
+)
+
+sns.scatterplot(
+    data=health_top100,
+    x="health_index",
+    y="country",
+    ax=axs[0],
+    color="#2ca25f",
+    s=70,
+    edgecolor="black",
+    alpha=0.8
+)
+axs[0].set_title("Top 100 Countries – Health Index (Average 2000–2021)", fontsize=16, weight="bold")
+axs[0].set_xlabel("Health Index Score (0-1)")
+axs[0].set_ylabel("")
+axs[0].grid(True, linestyle="--", alpha=0.3)
+
+# ---------- INFRA DOT PLOT ----------
+infra_top100 = (
+    df_final.groupby("country")["infra_index"]
+    .mean()
+    .sort_values(ascending=False)
+    .head(100)
+    .reset_index()
+)
+
+sns.scatterplot(
+    data=infra_top100,
+    x="infra_index",
+    y="country",
+    ax=axs[1],
+    color="#3182bd",
+    s=70,
+    edgecolor="black",
+    alpha=0.8
+)
+axs[1].set_title("Top 100 Countries – Infrastructure Index (Average 2000–2021)", fontsize=16, weight="bold")
+axs[1].set_xlabel("Infrastructure Index Score (0-1)")
+axs[1].set_ylabel("")
+axs[1].grid(True, linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
+```
+
+While many countries with high infrastructure scores also perform well on health metrics, the relationship is not absolute. Several countries demonstrate that high infrastructure investment does not automatically translate into balanced or sustainable health outcomes.
+
+
+## Rethinking What Progress Means for Health
+
+The analysis reveals a fundamental paradox in global development. Infrastructure investments have undeniably improved longevity and reduced mortality. At the same time, they have contributed to lifestyle changes that increase chronic disease risks.
+
+This duality challenges traditional definitions of progress and raises important questions about how future development should balance economic growth, infrastructure expansion, and long-term population health.
+
+
+
+# What are the Solutions for this paradox?
+
+## Implications and Future Directions
+
+The findings of this project suggest that infrastructure-led development must be accompanied by health-conscious policy design. Investments in water, energy, and transportation should be aligned with preventive healthcare, urban planning, and public health education.
+
+Addressing modern health challenges requires shifting focus from survival to well-being. Policies that promote physical activity, healthy diets, and equitable access to healthcare are essential to ensure that longer lives are also healthier ones.
+
+Future development strategies must therefore move beyond infrastructure quantity toward infrastructure quality — designed not only to support economic growth, but also to sustain long-term human health.

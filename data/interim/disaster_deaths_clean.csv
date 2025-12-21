@@ -1,0 +1,2900 @@
+country,year,disaster_deaths,iso_code
+Afghanistan,1900,0.0,AFG
+Afghanistan,1910,0.0,AFG
+Afghanistan,1920,0.0,AFG
+Afghanistan,1930,0.0,AFG
+Afghanistan,1940,0.0,AFG
+Afghanistan,1950,215.1,AFG
+Afghanistan,1960,10.7,AFG
+Afghanistan,1970,48.2,AFG
+Afghanistan,1980,58.3,AFG
+Afghanistan,1990,1038.9,AFG
+Afghanistan,2000,447.5,AFG
+Afghanistan,2010,262.3,AFG
+Afghanistan,2020,1333.0,AFG
+Albania,1900,12.0,ALB
+Albania,1910,0.0,ALB
+Albania,1920,20.0,ALB
+Albania,1930,15.0,ALB
+Albania,1940,5.8,ALB
+Albania,1950,0.0,ALB
+Albania,1960,2.6,ALB
+Albania,1970,3.5,ALB
+Albania,1980,13.5,ALB
+Albania,1990,1.5,ALB
+Albania,2000,1.5,ALB
+Albania,2010,6.6,ALB
+Albania,2020,119.166664,ALB
+Algeria,1900,0.0,DZA
+Algeria,1910,1.2,DZA
+Algeria,1920,300.0,DZA
+Algeria,1930,0.0,DZA
+Algeria,1940,27.6,DZA
+Algeria,1950,127.5,DZA
+Algeria,1960,22.2,DZA
+Algeria,1970,3.2,DZA
+Algeria,1980,284.6,DZA
+Algeria,1990,33.3,DZA
+Algeria,2000,364.0,DZA
+Algeria,2010,11.1,DZA
+Algeria,2020,33.333332,DZA
+American Samoa,1900,0.0,ASM
+American Samoa,1910,0.0,ASM
+American Samoa,1920,0.0,ASM
+American Samoa,1930,0.0,ASM
+American Samoa,1940,0.0,ASM
+American Samoa,1950,0.0,ASM
+American Samoa,1960,9.0,ASM
+American Samoa,1970,0.0,ASM
+American Samoa,1980,0.0,ASM
+American Samoa,1990,0.0,ASM
+American Samoa,2000,4.0,ASM
+American Samoa,2010,0.0,ASM
+American Samoa,2020,0.0,ASM
+Angola,1900,0.0,AGO
+Angola,1910,0.0,AGO
+Angola,1920,0.0,AGO
+Angola,1930,0.0,AGO
+Angola,1940,0.0,AGO
+Angola,1950,0.0,AGO
+Angola,1960,0.0,AGO
+Angola,1970,0.0,AGO
+Angola,1980,0.0,AGO
+Angola,1990,0.0,AGO
+Angola,2000,38.2,AGO
+Angola,2010,44.0,AGO
+Angola,2020,23.5,AGO
+Anguilla,1900,0.0,AIA
+Anguilla,1910,0.0,AIA
+Anguilla,1920,0.0,AIA
+Anguilla,1930,0.0,AIA
+Anguilla,1940,0.0,AIA
+Anguilla,1950,0.0,AIA
+Anguilla,1960,0.5,AIA
+Anguilla,1970,0.0,AIA
+Anguilla,1980,0.0,AIA
+Anguilla,1990,0.0,AIA
+Anguilla,2000,0.0,AIA
+Anguilla,2010,0.4,AIA
+Anguilla,2020,0.0,AIA
+Antigua and Barbuda,1900,0.0,ATG
+Antigua and Barbuda,1910,0.0,ATG
+Antigua and Barbuda,1920,0.0,ATG
+Antigua and Barbuda,1930,0.0,ATG
+Antigua and Barbuda,1940,0.0,ATG
+Antigua and Barbuda,1950,0.2,ATG
+Antigua and Barbuda,1960,0.2,ATG
+Antigua and Barbuda,1970,0.0,ATG
+Antigua and Barbuda,1980,0.2,ATG
+Antigua and Barbuda,1990,0.6,ATG
+Antigua and Barbuda,2000,0.0,ATG
+Antigua and Barbuda,2010,0.1,ATG
+Antigua and Barbuda,2020,0.0,ATG
+Argentina,1900,0.0,ARG
+Argentina,1910,0.0,ARG
+Argentina,1920,40.0,ARG
+Argentina,1930,0.0,ARG
+Argentina,1940,1000.0,ARG
+Argentina,1950,36.0,ARG
+Argentina,1960,16.3,ARG
+Argentina,1970,39.1,ARG
+Argentina,1980,14.4,ARG
+Argentina,1990,13.0,ARG
+Argentina,2000,18.1,ARG
+Argentina,2010,18.0,ARG
+Argentina,2020,28.833334,ARG
+Armenia,1900,0.0,ARM
+Armenia,1910,0.0,ARM
+Armenia,1920,0.0,ARM
+Armenia,1930,289.0,ARM
+Armenia,1940,0.0,ARM
+Armenia,1950,0.0,ARM
+Armenia,1960,0.0,ARM
+Armenia,1970,0.0,ARM
+Armenia,1980,0.0,ARM
+Armenia,1990,0.4,ARM
+Armenia,2000,0.1,ARM
+Armenia,2010,0.0,ARM
+Armenia,2020,1.3333334,ARM
+Australia,1900,0.0,AUS
+Australia,1910,0.0,AUS
+Australia,1920,0.0,AUS
+Australia,1930,7.1,AUS
+Australia,1940,4.9,AUS
+Australia,1950,2.5,AUS
+Australia,1960,67.4,AUS
+Australia,1970,17.5,AUS
+Australia,1980,21.7,AUS
+Australia,1990,14.7,AUS
+Australia,2000,59.5,AUS
+Australia,2010,25.1,AUS
+Australia,2020,11.333333,AUS
+Austria,1900,0.0,AUT
+Austria,1910,0.0,AUT
+Austria,1920,0.0,AUT
+Austria,1930,0.0,AUT
+Austria,1940,0.0,AUT
+Austria,1950,23.8,AUT
+Austria,1960,0.0,AUT
+Austria,1970,1.5,AUT
+Austria,1980,6.6,AUT
+Austria,1990,6.4,AUT
+Austria,2000,38.6,AUT
+Austria,2010,2.6,AUT
+Austria,2020,329.83334,AUT
+Azerbaijan,1900,0.0,AZE
+Azerbaijan,1910,0.0,AZE
+Azerbaijan,1920,0.0,AZE
+Azerbaijan,1930,0.0,AZE
+Azerbaijan,1940,0.0,AZE
+Azerbaijan,1950,0.0,AZE
+Azerbaijan,1960,0.0,AZE
+Azerbaijan,1970,0.0,AZE
+Azerbaijan,1980,0.0,AZE
+Azerbaijan,1990,1.8,AZE
+Azerbaijan,2000,4.2,AZE
+Azerbaijan,2010,0.8,AZE
+Azerbaijan,2020,0.0,AZE
+Bahamas,1900,0.0,BHS
+Bahamas,1910,0.0,BHS
+Bahamas,1920,31.1,BHS
+Bahamas,1930,1.4,BHS
+Bahamas,1940,2.2,BHS
+Bahamas,1950,0.1,BHS
+Bahamas,1960,0.5,BHS
+Bahamas,1970,0.0,BHS
+Bahamas,1980,0.0,BHS
+Bahamas,1990,0.5,BHS
+Bahamas,2000,1.4,BHS
+Bahamas,2010,39.0,BHS
+Bahamas,2020,0.0,BHS
+Bangladesh,1900,17.2,BGD
+Bangladesh,1910,0.0,BGD
+Bangladesh,1920,0.6,BGD
+Bangladesh,1930,0.0,BGD
+Bangladesh,1940,196650.0,BGD
+Bangladesh,1950,70.0,BGD
+Bangladesh,1960,10291.3,BGD
+Bangladesh,1970,33651.9,BGD
+Bangladesh,1980,2621.4,BGD
+Bangladesh,1990,14638.7,BGD
+Bangladesh,2000,924.7,BGD
+Bangladesh,2010,181.2,BGD
+Bangladesh,2020,107.5,BGD
+Barbados,1900,0.0,BRB
+Barbados,1910,0.0,BRB
+Barbados,1920,0.0,BRB
+Barbados,1930,0.0,BRB
+Barbados,1940,0.0,BRB
+Barbados,1950,5.7,BRB
+Barbados,1960,0.0,BRB
+Barbados,1970,0.3,BRB
+Barbados,1980,0.0,BRB
+Barbados,1990,0.0,BRB
+Barbados,2000,0.1,BRB
+Barbados,2010,0.1,BRB
+Barbados,2020,0.0,BRB
+Belarus,1900,0.0,BLR
+Belarus,1910,0.0,BLR
+Belarus,1920,0.0,BLR
+Belarus,1930,0.0,BLR
+Belarus,1940,0.0,BLR
+Belarus,1950,0.0,BLR
+Belarus,1960,0.0,BLR
+Belarus,1970,0.0,BLR
+Belarus,1980,0.0,BLR
+Belarus,1990,0.7,BLR
+Belarus,2000,0.5,BLR
+Belarus,2010,4.9,BLR
+Belarus,2020,0.0,BLR
+Belgium,1900,0.0,BEL
+Belgium,1910,0.0,BEL
+Belgium,1920,0.0,BEL
+Belgium,1930,6.0,BEL
+Belgium,1940,0.0,BEL
+Belgium,1950,1.5,BEL
+Belgium,1960,1.2,BEL
+Belgium,1970,0.0,BEL
+Belgium,1980,0.2,BEL
+Belgium,1990,2.6,BEL
+Belgium,2000,212.5,BEL
+Belgium,2010,114.4,BEL
+Belgium,2020,456.16666,BEL
+Belize,1900,0.0,BLZ
+Belize,1910,0.0,BLZ
+Belize,1920,0.0,BLZ
+Belize,1930,150.0,BLZ
+Belize,1940,0.0,BLZ
+Belize,1950,1.6,BLZ
+Belize,1960,27.5,BLZ
+Belize,1970,0.5,BLZ
+Belize,1980,0.0,BLZ
+Belize,1990,0.9,BLZ
+Belize,2000,5.5,BLZ
+Belize,2010,0.0,BLZ
+Belize,2020,0.0,BLZ
+Benin,1900,0.0,BEN
+Benin,1910,0.0,BEN
+Benin,1920,0.0,BEN
+Benin,1930,0.0,BEN
+Benin,1940,0.0,BEN
+Benin,1950,0.0,BEN
+Benin,1960,0.0,BEN
+Benin,1970,0.2,BEN
+Benin,1980,6.1,BEN
+Benin,1990,3.7,BEN
+Benin,2000,3.5,BEN
+Benin,2010,5.1,BEN
+Benin,2020,10.5,BEN
+Bermuda,1900,0.0,BMU
+Bermuda,1910,0.0,BMU
+Bermuda,1920,0.0,BMU
+Bermuda,1930,0.0,BMU
+Bermuda,1940,0.0,BMU
+Bermuda,1950,0.0,BMU
+Bermuda,1960,0.0,BMU
+Bermuda,1970,0.0,BMU
+Bermuda,1980,0.0,BMU
+Bermuda,1990,0.0,BMU
+Bermuda,2000,0.4,BMU
+Bermuda,2010,0.0,BMU
+Bermuda,2020,0.0,BMU
+Bhutan,1900,0.0,BTN
+Bhutan,1910,0.0,BTN
+Bhutan,1920,0.0,BTN
+Bhutan,1930,0.0,BTN
+Bhutan,1940,0.0,BTN
+Bhutan,1950,0.0,BTN
+Bhutan,1960,0.0,BTN
+Bhutan,1970,0.0,BTN
+Bhutan,1980,0.0,BTN
+Bhutan,1990,3.9,BTN
+Bhutan,2000,22.3,BTN
+Bhutan,2010,0.1,BTN
+Bhutan,2020,1.6666666,BTN
+Bolivia,1900,0.0,BOL
+Bolivia,1910,0.0,BOL
+Bolivia,1920,0.0,BOL
+Bolivia,1930,0.0,BOL
+Bolivia,1940,0.0,BOL
+Bolivia,1950,0.0,BOL
+Bolivia,1960,7.8,BOL
+Bolivia,1970,8.1,BOL
+Bolivia,1980,30.4,BOL
+Bolivia,1990,31.2,BOL
+Bolivia,2000,45.6,BOL
+Bolivia,2010,46.1,BOL
+Bolivia,2020,46.166668,BOL
+Bosnia and Herzegovina,1900,0.0,BIH
+Bosnia and Herzegovina,1910,0.0,BIH
+Bosnia and Herzegovina,1920,0.0,BIH
+Bosnia and Herzegovina,1930,0.0,BIH
+Bosnia and Herzegovina,1940,0.0,BIH
+Bosnia and Herzegovina,1950,0.0,BIH
+Bosnia and Herzegovina,1960,0.0,BIH
+Bosnia and Herzegovina,1970,0.0,BIH
+Bosnia and Herzegovina,1980,0.0,BIH
+Bosnia and Herzegovina,1990,0.0,BIH
+Bosnia and Herzegovina,2000,1.1,BIH
+Bosnia and Herzegovina,2010,3.4,BIH
+Bosnia and Herzegovina,2020,156.5,BIH
+Botswana,1900,0.0,BWA
+Botswana,1910,0.0,BWA
+Botswana,1920,0.0,BWA
+Botswana,1930,0.0,BWA
+Botswana,1940,0.0,BWA
+Botswana,1950,0.0,BWA
+Botswana,1960,0.0,BWA
+Botswana,1970,0.0,BWA
+Botswana,1980,0.8,BWA
+Botswana,1990,2.0,BWA
+Botswana,2000,0.3,BWA
+Botswana,2010,1.2,BWA
+Botswana,2020,1.5,BWA
+Brazil,1900,0.0,BRA
+Brazil,1910,0.0,BRA
+Brazil,1920,0.0,BRA
+Brazil,1930,0.0,BRA
+Brazil,1940,30.0,BRA
+Brazil,1950,33.7,BRA
+Brazil,1960,275.3,BRA
+Brazil,1970,139.9,BRA
+Brazil,1980,195.5,BRA
+Brazil,1990,76.8,BRA
+Brazil,2000,104.2,BRA
+Brazil,2010,175.4,BRA
+Brazil,2020,205.83333,BRA
+British Virgin Islands,1900,0.0,VGB
+British Virgin Islands,1910,0.0,VGB
+British Virgin Islands,1920,0.0,VGB
+British Virgin Islands,1930,0.0,VGB
+British Virgin Islands,1940,0.0,VGB
+British Virgin Islands,1950,0.0,VGB
+British Virgin Islands,1960,0.0,VGB
+British Virgin Islands,1970,0.0,VGB
+British Virgin Islands,1980,0.0,VGB
+British Virgin Islands,1990,0.0,VGB
+British Virgin Islands,2000,0.0,VGB
+British Virgin Islands,2010,0.9,VGB
+British Virgin Islands,2020,0.0,VGB
+Brunei,1900,0.0,BRN
+Brunei,1910,0.0,BRN
+Brunei,1920,0.0,BRN
+Brunei,1930,0.0,BRN
+Brunei,1940,0.0,BRN
+Brunei,1950,0.0,BRN
+Brunei,1960,0.0,BRN
+Brunei,1970,0.0,BRN
+Brunei,1980,0.0,BRN
+Brunei,1990,0.0,BRN
+Brunei,2000,0.0,BRN
+Brunei,2010,0.0,BRN
+Brunei,2020,0.0,BRN
+Bulgaria,1900,0.0,BGR
+Bulgaria,1910,0.0,BGR
+Bulgaria,1920,10.7,BGR
+Bulgaria,1930,0.0,BGR
+Bulgaria,1940,0.0,BGR
+Bulgaria,1950,0.0,BGR
+Bulgaria,1960,1.1,BGR
+Bulgaria,1970,2.0,BGR
+Bulgaria,1980,0.3,BGR
+Bulgaria,1990,0.5,BGR
+Bulgaria,2000,10.1,BGR
+Bulgaria,2010,7.1,BGR
+Bulgaria,2020,1062.1666,BGR
+Burkina Faso,1900,0.0,BFA
+Burkina Faso,1910,0.0,BFA
+Burkina Faso,1920,0.0,BFA
+Burkina Faso,1930,0.0,BFA
+Burkina Faso,1940,0.0,BFA
+Burkina Faso,1950,0.0,BFA
+Burkina Faso,1960,0.0,BFA
+Burkina Faso,1970,0.0,BFA
+Burkina Faso,1980,1.6,BFA
+Burkina Faso,1990,2.8,BFA
+Burkina Faso,2000,6.7,BFA
+Burkina Faso,2010,6.1,BFA
+Burkina Faso,2020,2.1666667,BFA
+Burundi,1900,0.0,BDI
+Burundi,1910,0.0,BDI
+Burundi,1920,0.0,BDI
+Burundi,1930,0.0,BDI
+Burundi,1940,0.0,BDI
+Burundi,1950,0.0,BDI
+Burundi,1960,0.0,BDI
+Burundi,1970,0.0,BDI
+Burundi,1980,1.2,BDI
+Burundi,1990,0.0,BDI
+Burundi,2000,16.5,BDI
+Burundi,2010,25.6,BDI
+Burundi,2020,9.166667,BDI
+Cambodia,1900,0.0,KHM
+Cambodia,1910,0.0,KHM
+Cambodia,1920,0.0,KHM
+Cambodia,1930,0.0,KHM
+Cambodia,1940,0.0,KHM
+Cambodia,1950,0.0,KHM
+Cambodia,1960,0.0,KHM
+Cambodia,1970,0.0,KHM
+Cambodia,1980,0.0,KHM
+Cambodia,1990,69.7,KHM
+Cambodia,2000,47.4,KHM
+Cambodia,2010,52.6,KHM
+Cambodia,2020,12.666667,KHM
+Cameroon,1900,0.0,CMR
+Cameroon,1910,0.0,CMR
+Cameroon,1920,0.0,CMR
+Cameroon,1930,0.0,CMR
+Cameroon,1940,0.0,CMR
+Cameroon,1950,0.0,CMR
+Cameroon,1960,0.0,CMR
+Cameroon,1970,0.0,CMR
+Cameroon,1980,178.5,CMR
+Cameroon,1990,3.2,CMR
+Cameroon,2000,7.2,CMR
+Cameroon,2010,9.9,CMR
+Cameroon,2020,16.666666,CMR
+Canada,1900,12.7,CAN
+Canada,1910,21.9,CAN
+Canada,1920,7.0,CAN
+Canada,1930,50.0,CAN
+Canada,1940,1.7,CAN
+Canada,1950,13.3,CAN
+Canada,1960,5.9,CAN
+Canada,1970,5.5,CAN
+Canada,1980,4.2,CAN
+Canada,1990,6.3,CAN
+Canada,2000,4.2,CAN
+Canada,2010,9.5,CAN
+Canada,2020,142.16667,CAN
+Cape Verde,1900,1100.0,CPV
+Cape Verde,1910,0.0,CPV
+Cape Verde,1920,2400.0,CPV
+Cape Verde,1930,0.0,CPV
+Cape Verde,1940,5000.0,CPV
+Cape Verde,1950,0.0,CPV
+Cape Verde,1960,0.0,CPV
+Cape Verde,1970,0.0,CPV
+Cape Verde,1980,3.2,CPV
+Cape Verde,1990,0.0,CPV
+Cape Verde,2000,0.3,CPV
+Cape Verde,2010,0.9,CPV
+Cape Verde,2020,3.0,CPV
+Cayman Islands,1900,0.0,CYM
+Cayman Islands,1910,0.0,CYM
+Cayman Islands,1920,0.0,CYM
+Cayman Islands,1930,11.0,CYM
+Cayman Islands,1940,0.0,CYM
+Cayman Islands,1950,0.0,CYM
+Cayman Islands,1960,0.0,CYM
+Cayman Islands,1970,0.0,CYM
+Cayman Islands,1980,0.0,CYM
+Cayman Islands,1990,0.0,CYM
+Cayman Islands,2000,0.2,CYM
+Cayman Islands,2010,0.0,CYM
+Cayman Islands,2020,0.0,CYM
+Central African Republic,1900,0.0,CAF
+Central African Republic,1910,0.0,CAF
+Central African Republic,1920,0.0,CAF
+Central African Republic,1930,0.0,CAF
+Central African Republic,1940,0.0,CAF
+Central African Republic,1950,0.0,CAF
+Central African Republic,1960,0.0,CAF
+Central African Republic,1970,0.0,CAF
+Central African Republic,1980,0.0,CAF
+Central African Republic,1990,0.7,CAF
+Central African Republic,2000,1.3,CAF
+Central African Republic,2010,0.5,CAF
+Central African Republic,2020,2.6666667,CAF
+Chad,1900,0.0,TCD
+Chad,1910,0.0,TCD
+Chad,1920,0.0,TCD
+Chad,1930,0.0,TCD
+Chad,1940,0.0,TCD
+Chad,1950,0.0,TCD
+Chad,1960,0.0,TCD
+Chad,1970,1.3,TCD
+Chad,1980,305.4,TCD
+Chad,1990,4.1,TCD
+Chad,2000,18.7,TCD
+Chad,2010,9.6,TCD
+Chad,2020,105.666664,TCD
+Chile,1900,2000.0,CHL
+Chile,1910,0.0,CHL
+Chile,1920,122.0,CHL
+Chile,1930,3000.0,CHL
+Chile,1940,15.5,CHL
+Chile,1950,1.5,CHL
+Chile,1960,709.2,CHL
+Chile,1970,16.6,CHL
+Chile,1980,53.5,CHL
+Chile,1990,33.3,CHL
+Chile,2000,14.6,CHL
+Chile,2010,85.5,CHL
+Chile,2020,28.833334,CHL
+China,1900,1480.1,CHN
+China,1910,16291.2,CHN
+China,1920,383602.4,CHN
+China,1930,438157.7,CHN
+China,1940,6052.6,CHN
+China,1950,52979.8,CHN
+China,1960,152074.7,CHN
+China,1970,29414.9,CHN
+China,1980,2092.7,CHN
+China,1990,2776.7,CHN
+China,2000,9821.2,CHN
+China,2010,1492.3,CHN
+China,2020,400.0,CHN
+Colombia,1900,40.0,COL
+Colombia,1910,0.0,COL
+Colombia,1920,40.0,COL
+Colombia,1930,1.8,COL
+Colombia,1940,100.0,COL
+Colombia,1950,69.3,COL
+Colombia,1960,29.5,COL
+Colombia,1970,211.5,COL
+Colombia,1980,2376.0,COL
+Colombia,1990,214.6,COL
+Colombia,2000,133.4,COL
+Colombia,2010,171.7,COL
+Colombia,2020,60.166668,COL
+Comoros,1900,1.7,COM
+Comoros,1910,0.0,COM
+Comoros,1920,0.0,COM
+Comoros,1930,0.0,COM
+Comoros,1940,0.0,COM
+Comoros,1950,50.0,COM
+Comoros,1960,0.0,COM
+Comoros,1970,0.1,COM
+Comoros,1980,5.9,COM
+Comoros,1990,0.0,COM
+Comoros,2000,0.3,COM
+Comoros,2010,1.2,COM
+Comoros,2020,0.0,COM
+Congo,1900,0.0,COG
+Congo,1910,0.0,COG
+Congo,1920,0.0,COG
+Congo,1930,0.0,COG
+Congo,1940,0.0,COG
+Congo,1950,0.0,COG
+Congo,1960,15.4,COG
+Congo,1970,0.0,COG
+Congo,1980,0.0,COG
+Congo,1990,0.2,COG
+Congo,2000,0.7,COG
+Congo,2010,1.9,COG
+Congo,2020,11.166667,COG
+Cook Islands,1900,0.0,COK
+Cook Islands,1910,0.0,COK
+Cook Islands,1920,0.0,COK
+Cook Islands,1930,0.0,COK
+Cook Islands,1940,0.0,COK
+Cook Islands,1950,0.0,COK
+Cook Islands,1960,0.0,COK
+Cook Islands,1970,0.0,COK
+Cook Islands,1980,0.5,COK
+Cook Islands,1990,2.0,COK
+Cook Islands,2000,0.0,COK
+Cook Islands,2010,0.0,COK
+Cook Islands,2020,0.0,COK
+Costa Rica,1900,0.0,CRI
+Costa Rica,1910,245.0,CRI
+Costa Rica,1920,0.0,CRI
+Costa Rica,1930,0.0,CRI
+Costa Rica,1940,0.0,CRI
+Costa Rica,1950,3.9,CRI
+Costa Rica,1960,10.9,CRI
+Costa Rica,1970,4.7,CRI
+Costa Rica,1980,4.8,CRI
+Costa Rica,1990,14.0,CRI
+Costa Rica,2000,9.7,CRI
+Costa Rica,2010,6.2,CRI
+Costa Rica,2020,1.8333334,CRI
+Cote d'Ivoire,1900,0.0,CIV
+Cote d'Ivoire,1910,0.0,CIV
+Cote d'Ivoire,1920,0.0,CIV
+Cote d'Ivoire,1930,0.0,CIV
+Cote d'Ivoire,1940,0.0,CIV
+Cote d'Ivoire,1950,0.0,CIV
+Cote d'Ivoire,1960,0.0,CIV
+Cote d'Ivoire,1970,0.0,CIV
+Cote d'Ivoire,1980,0.0,CIV
+Cote d'Ivoire,1990,2.8,CIV
+Cote d'Ivoire,2000,3.3,CIV
+Cote d'Ivoire,2010,14.7,CIV
+Cote d'Ivoire,2020,12.5,CIV
+Croatia,1900,0.0,HRV
+Croatia,1910,0.0,HRV
+Croatia,1920,0.0,HRV
+Croatia,1930,0.0,HRV
+Croatia,1940,0.0,HRV
+Croatia,1950,0.0,HRV
+Croatia,1960,0.0,HRV
+Croatia,1970,0.0,HRV
+Croatia,1980,0.0,HRV
+Croatia,1990,0.0,HRV
+Croatia,2000,84.8,HRV
+Croatia,2010,1.1,HRV
+Croatia,2020,426.16666,HRV
+Cuba,1900,2.9,CUB
+Cuba,1910,0.5,CUB
+Cuba,1920,60.0,CUB
+Cuba,1930,255.7,CUB
+Cuba,1940,1.4,CUB
+Cuba,1950,0.4,CUB
+Cuba,1960,175.5,CUB
+Cuba,1970,3.4,CUB
+Cuba,1980,6.9,CUB
+Cuba,1990,8.4,CUB
+Cuba,2000,4.4,CUB
+Cuba,2010,4.4,CUB
+Cuba,2020,4.1666665,CUB
+Cyprus,1900,0.0,CYP
+Cyprus,1910,0.0,CYP
+Cyprus,1920,0.0,CYP
+Cyprus,1930,0.0,CYP
+Cyprus,1940,0.0,CYP
+Cyprus,1950,4.0,CYP
+Cyprus,1960,0.3,CYP
+Cyprus,1970,0.0,CYP
+Cyprus,1980,0.0,CYP
+Cyprus,1990,5.4,CYP
+Cyprus,2000,0.9,CYP
+Cyprus,2010,0.0,CYP
+Cyprus,2020,79.333336,CYP
+Czechia,1900,0.0,CZE
+Czechia,1910,0.0,CZE
+Czechia,1920,0.0,CZE
+Czechia,1930,0.0,CZE
+Czechia,1940,0.0,CZE
+Czechia,1950,0.0,CZE
+Czechia,1960,0.0,CZE
+Czechia,1970,0.0,CZE
+Czechia,1980,0.0,CZE
+Czechia,1990,5.6,CZE
+Czechia,2000,48.8,CZE
+Czechia,2010,7.5,CZE
+Czechia,2020,202.5,CZE
+Democratic Republic of Congo,1900,0.0,COD
+Democratic Republic of Congo,1910,0.0,COD
+Democratic Republic of Congo,1920,0.0,COD
+Democratic Republic of Congo,1930,0.0,COD
+Democratic Republic of Congo,1940,0.0,COD
+Democratic Republic of Congo,1950,0.0,COD
+Democratic Republic of Congo,1960,17.8,COD
+Democratic Republic of Congo,1970,14.7,COD
+Democratic Republic of Congo,1980,0.0,COD
+Democratic Republic of Congo,1990,7.3,COD
+Democratic Republic of Congo,2000,41.7,COD
+Democratic Republic of Congo,2010,73.5,COD
+Democratic Republic of Congo,2020,672.3333,COD
+Denmark,1900,0.0,DNK
+Denmark,1910,0.0,DNK
+Denmark,1920,0.0,DNK
+Denmark,1930,0.0,DNK
+Denmark,1940,0.0,DNK
+Denmark,1950,0.0,DNK
+Denmark,1960,0.0,DNK
+Denmark,1970,0.0,DNK
+Denmark,1980,1.1,DNK
+Denmark,1990,1.0,DNK
+Denmark,2000,0.5,DNK
+Denmark,2010,0.2,DNK
+Denmark,2020,102.666664,DNK
+Djibouti,1900,0.0,DJI
+Djibouti,1910,0.0,DJI
+Djibouti,1920,0.0,DJI
+Djibouti,1930,0.0,DJI
+Djibouti,1940,0.0,DJI
+Djibouti,1950,0.0,DJI
+Djibouti,1960,0.0,DJI
+Djibouti,1970,0.0,DJI
+Djibouti,1980,3.5,DJI
+Djibouti,1990,14.5,DJI
+Djibouti,2000,5.1,DJI
+Djibouti,2010,1.3,DJI
+Djibouti,2020,1.3333334,DJI
+Dominica,1900,0.0,DMA
+Dominica,1910,0.0,DMA
+Dominica,1920,0.0,DMA
+Dominica,1930,0.0,DMA
+Dominica,1940,0.0,DMA
+Dominica,1950,0.0,DMA
+Dominica,1960,0.0,DMA
+Dominica,1970,4.0,DMA
+Dominica,1980,0.2,DMA
+Dominica,1990,0.2,DMA
+Dominica,2000,0.2,DMA
+Dominica,2010,9.4,DMA
+Dominica,2020,0.0,DMA
+Dominican Republic,1900,0.0,DOM
+Dominican Republic,1910,0.0,DOM
+Dominican Republic,1920,16.2,DOM
+Dominican Republic,1930,200.0,DOM
+Dominican Republic,1940,7.3,DOM
+Dominican Republic,1950,0.0,DOM
+Dominican Republic,1960,48.1,DOM
+Dominican Republic,1970,143.2,DOM
+Dominican Republic,1980,5.4,DOM
+Dominican Republic,1990,42.5,DOM
+Dominican Republic,2000,93.7,DOM
+Dominican Republic,2010,5.5,DOM
+Dominican Republic,2020,8.333333,DOM
+East Germany,1900,0.0,DEU
+East Germany,1910,0.0,DEU
+East Germany,1920,0.0,DEU
+East Germany,1930,0.0,DEU
+East Germany,1940,0.0,DEU
+East Germany,1950,0.0,DEU
+East Germany,1960,0.0,DEU
+East Germany,1970,0.0,DEU
+East Germany,1980,0.0,DEU
+East Germany,1990,0.0,DEU
+East Germany,2000,0.0,DEU
+East Germany,2010,0.0,DEU
+East Germany,2020,0.0,DEU
+East Timor,1900,0.0,TLS
+East Timor,1910,0.0,TLS
+East Timor,1920,0.0,TLS
+East Timor,1930,0.0,TLS
+East Timor,1940,0.0,TLS
+East Timor,1950,0.0,TLS
+East Timor,1960,0.0,TLS
+East Timor,1970,0.0,TLS
+East Timor,1980,0.0,TLS
+East Timor,1990,0.0,TLS
+East Timor,2000,0.5,TLS
+East Timor,2010,0.0,TLS
+East Timor,2020,7.3333335,TLS
+Ecuador,1900,0.0,ECU
+Ecuador,1910,0.0,ECU
+Ecuador,1920,4.0,ECU
+Ecuador,1930,19.0,ECU
+Ecuador,1940,620.0,ECU
+Ecuador,1950,12.1,ECU
+Ecuador,1960,5.0,ECU
+Ecuador,1970,17.5,ECU
+Ecuador,1980,555.2,ECU
+Ecuador,1990,76.4,ECU
+Ecuador,2000,29.2,ECU
+Ecuador,2010,78.9,ECU
+Ecuador,2020,54.0,ECU
+Egypt,1900,0.0,EGY
+Egypt,1910,0.0,EGY
+Egypt,1920,1.2,EGY
+Egypt,1930,0.0,EGY
+Egypt,1940,0.0,EGY
+Egypt,1950,2.0,EGY
+Egypt,1960,0.2,EGY
+Egypt,1970,6.8,EGY
+Egypt,1980,3.0,EGY
+Egypt,1990,129.2,EGY
+Egypt,2000,13.2,EGY
+Egypt,2010,21.9,EGY
+Egypt,2020,7.1666665,EGY
+El Salvador,1900,0.0,SLV
+El Salvador,1910,0.0,SLV
+El Salvador,1920,0.0,SLV
+El Salvador,1930,240.0,SLV
+El Salvador,1940,0.0,SLV
+El Salvador,1950,110.0,SLV
+El Salvador,1960,12.7,SLV
+El Salvador,1970,0.0,SLV
+El Salvador,1980,168.5,SLV
+El Salvador,1990,53.0,SLV
+El Salvador,2000,159.1,SLV
+El Salvador,2010,8.1,SLV
+El Salvador,2020,18.833334,SLV
+Equatorial Guinea,1900,0.0,GNQ
+Equatorial Guinea,1910,0.0,GNQ
+Equatorial Guinea,1920,0.0,GNQ
+Equatorial Guinea,1930,0.0,GNQ
+Equatorial Guinea,1940,0.0,GNQ
+Equatorial Guinea,1950,0.0,GNQ
+Equatorial Guinea,1960,0.0,GNQ
+Equatorial Guinea,1970,0.0,GNQ
+Equatorial Guinea,1980,0.0,GNQ
+Equatorial Guinea,1990,0.0,GNQ
+Equatorial Guinea,2000,0.0,GNQ
+Equatorial Guinea,2010,0.0,GNQ
+Equatorial Guinea,2020,0.0,GNQ
+Eritrea,1900,0.0,ERI
+Eritrea,1910,0.0,ERI
+Eritrea,1920,0.0,ERI
+Eritrea,1930,0.0,ERI
+Eritrea,1940,0.0,ERI
+Eritrea,1950,0.0,ERI
+Eritrea,1960,0.0,ERI
+Eritrea,1970,0.0,ERI
+Eritrea,1980,0.0,ERI
+Eritrea,1990,0.3,ERI
+Eritrea,2000,0.0,ERI
+Eritrea,2010,0.0,ERI
+Eritrea,2020,0.0,ERI
+Estonia,1900,0.0,EST
+Estonia,1910,0.0,EST
+Estonia,1920,0.0,EST
+Estonia,1930,0.0,EST
+Estonia,1940,0.0,EST
+Estonia,1950,0.0,EST
+Estonia,1960,0.0,EST
+Estonia,1970,0.0,EST
+Estonia,1980,0.0,EST
+Estonia,1990,0.0,EST
+Estonia,2000,0.4,EST
+Estonia,2010,0.8,EST
+Estonia,2020,59.166668,EST
+Eswatini,1900,0.0,SWZ
+Eswatini,1910,0.0,SWZ
+Eswatini,1920,0.0,SWZ
+Eswatini,1930,0.0,SWZ
+Eswatini,1940,0.0,SWZ
+Eswatini,1950,0.0,SWZ
+Eswatini,1960,0.0,SWZ
+Eswatini,1970,0.0,SWZ
+Eswatini,1980,55.3,SWZ
+Eswatini,1990,0.0,SWZ
+Eswatini,2000,0.3,SWZ
+Eswatini,2010,1.1,SWZ
+Eswatini,2020,0.0,SWZ
+Ethiopia,1900,0.0,ETH
+Ethiopia,1910,0.0,ETH
+Ethiopia,1920,0.0,ETH
+Ethiopia,1930,0.0,ETH
+Ethiopia,1940,0.0,ETH
+Ethiopia,1950,0.0,ETH
+Ethiopia,1960,205.5,ETH
+Ethiopia,1970,10008.0,ETH
+Ethiopia,1980,30042.1,ETH
+Ethiopia,1990,48.2,ETH
+Ethiopia,2000,144.8,ETH
+Ethiopia,2010,21.4,ETH
+Ethiopia,2020,80.0,ETH
+Fiji,1900,0.0,FJI
+Fiji,1910,0.0,FJI
+Fiji,1920,0.0,FJI
+Fiji,1930,20.0,FJI
+Fiji,1940,0.6,FJI
+Fiji,1950,2.3,FJI
+Fiji,1960,0.3,FJI
+Fiji,1970,11.5,FJI
+Fiji,1980,9.0,FJI
+Fiji,1990,5.9,FJI
+Fiji,2000,6.5,FJI
+Fiji,2010,7.4,FJI
+Fiji,2020,2.5,FJI
+Finland,1900,0.0,FIN
+Finland,1910,0.0,FIN
+Finland,1920,0.0,FIN
+Finland,1930,0.0,FIN
+Finland,1940,0.0,FIN
+Finland,1950,0.0,FIN
+Finland,1960,0.0,FIN
+Finland,1970,0.0,FIN
+Finland,1980,0.0,FIN
+Finland,1990,0.0,FIN
+Finland,2000,0.0,FIN
+Finland,2010,0.0,FIN
+Finland,2020,85.833336,FIN
+France,1900,4.6,FRA
+France,1910,1.6,FRA
+France,1920,2.8,FRA
+France,1930,30.0,FRA
+France,1940,13.7,FRA
+France,1950,3.5,FRA
+France,1960,5.7,FRA
+France,1970,15.3,FRA
+France,1980,15.4,FRA
+France,1990,37.0,FRA
+France,2000,2101.2,FRA
+France,2010,490.6,FRA
+France,2020,1992.6666,FRA
+French Guiana,1900,0.0,GUF
+French Guiana,1910,0.0,GUF
+French Guiana,1920,0.0,GUF
+French Guiana,1930,0.0,GUF
+French Guiana,1940,0.0,GUF
+French Guiana,1950,0.0,GUF
+French Guiana,1960,0.0,GUF
+French Guiana,1970,0.0,GUF
+French Guiana,1980,0.0,GUF
+French Guiana,1990,0.0,GUF
+French Guiana,2000,1.0,GUF
+French Guiana,2010,0.0,GUF
+French Guiana,2020,0.0,GUF
+French Polynesia,1900,0.0,PYF
+French Polynesia,1910,0.0,PYF
+French Polynesia,1920,0.0,PYF
+French Polynesia,1930,0.0,PYF
+French Polynesia,1940,0.0,PYF
+French Polynesia,1950,0.0,PYF
+French Polynesia,1960,0.0,PYF
+French Polynesia,1970,0.0,PYF
+French Polynesia,1980,1.7,PYF
+French Polynesia,1990,1.3,PYF
+French Polynesia,2000,0.0,PYF
+French Polynesia,2010,0.1,PYF
+French Polynesia,2020,0.0,PYF
+Gabon,1900,0.0,GAB
+Gabon,1910,0.0,GAB
+Gabon,1920,0.0,GAB
+Gabon,1930,0.0,GAB
+Gabon,1940,0.0,GAB
+Gabon,1950,0.0,GAB
+Gabon,1960,0.0,GAB
+Gabon,1970,0.0,GAB
+Gabon,1980,0.0,GAB
+Gabon,1990,0.0,GAB
+Gabon,2000,0.0,GAB
+Gabon,2010,0.1,GAB
+Gabon,2020,0.0,GAB
+Gambia,1900,0.0,GMB
+Gambia,1910,0.0,GMB
+Gambia,1920,0.0,GMB
+Gambia,1930,0.0,GMB
+Gambia,1940,0.0,GMB
+Gambia,1950,0.0,GMB
+Gambia,1960,0.0,GMB
+Gambia,1970,0.0,GMB
+Gambia,1980,0.0,GMB
+Gambia,1990,5.3,GMB
+Gambia,2000,1.1,GMB
+Gambia,2010,2.1,GMB
+Gambia,2020,4.0,GMB
+Georgia,1900,0.0,GEO
+Georgia,1910,0.0,GEO
+Georgia,1920,0.0,GEO
+Georgia,1930,0.0,GEO
+Georgia,1940,0.0,GEO
+Georgia,1950,0.0,GEO
+Georgia,1960,0.0,GEO
+Georgia,1970,0.0,GEO
+Georgia,1980,0.0,GEO
+Georgia,1990,1.7,GEO
+Georgia,2000,0.7,GEO
+Georgia,2010,5.2,GEO
+Georgia,2020,3.5,GEO
+Germany,1900,0.0,DEU
+Germany,1910,0.0,DEU
+Germany,1920,0.0,DEU
+Germany,1930,0.0,DEU
+Germany,1940,0.0,DEU
+Germany,1950,0.0,DEU
+Germany,1960,0.0,DEU
+Germany,1970,0.0,DEU
+Germany,1980,0.0,DEU
+Germany,1990,16.3,DEU
+Germany,2000,949.2,DEU
+Germany,2010,7.5,DEU
+Germany,2020,3513.5,DEU
+Ghana,1900,0.0,GHA
+Ghana,1910,0.0,GHA
+Ghana,1920,0.0,GHA
+Ghana,1930,2.2,GHA
+Ghana,1940,0.0,GHA
+Ghana,1950,0.0,GHA
+Ghana,1960,0.0,GHA
+Ghana,1970,0.0,GHA
+Ghana,1980,1.1,GHA
+Ghana,1990,20.2,GHA
+Ghana,2000,11.2,GHA
+Ghana,2010,20.9,GHA
+Ghana,2020,4.0,GHA
+Greece,1900,10.4,GRC
+Greece,1910,1.4,GRC
+Greece,1920,13.1,GRC
+Greece,1930,18.7,GRC
+Greece,1940,0.5,GRC
+Greece,1950,59.3,GRC
+Greece,1960,13.3,GRC
+Greece,1970,9.2,GRC
+Greece,1980,118.4,GRC
+Greece,1990,24.5,GRC
+Greece,2000,14.2,GRC
+Greece,2010,15.1,GRC
+Greece,2020,2244.8333,GRC
+Grenada,1900,0.0,GRD
+Grenada,1910,0.0,GRD
+Grenada,1920,0.0,GRD
+Grenada,1930,0.0,GRD
+Grenada,1940,0.0,GRD
+Grenada,1950,0.0,GRD
+Grenada,1960,0.6,GRD
+Grenada,1970,0.0,GRD
+Grenada,1980,0.0,GRD
+Grenada,1990,0.0,GRD
+Grenada,2000,4.0,GRD
+Grenada,2010,0.0,GRD
+Grenada,2020,1.3333334,GRD
+Guadeloupe,1900,0.0,GLP
+Guadeloupe,1910,0.0,GLP
+Guadeloupe,1920,200.0,GLP
+Guadeloupe,1930,0.0,GLP
+Guadeloupe,1940,0.0,GLP
+Guadeloupe,1950,1.8,GLP
+Guadeloupe,1960,3.9,GLP
+Guadeloupe,1970,0.0,GLP
+Guadeloupe,1980,0.5,GLP
+Guadeloupe,1990,0.4,GLP
+Guadeloupe,2000,0.1,GLP
+Guadeloupe,2010,0.4,GLP
+Guadeloupe,2020,0.16666667,GLP
+Guam,1900,0.0,GUM
+Guam,1910,0.0,GUM
+Guam,1920,0.0,GUM
+Guam,1930,0.0,GUM
+Guam,1940,0.0,GUM
+Guam,1950,0.0,GUM
+Guam,1960,0.6,GUM
+Guam,1970,0.9,GUM
+Guam,1980,0.0,GUM
+Guam,1990,0.1,GUM
+Guam,2000,0.2,GUM
+Guam,2010,0.0,GUM
+Guam,2020,0.33333334,GUM
+Guatemala,1900,900.0,GTM
+Guatemala,1910,265.0,GTM
+Guatemala,1920,0.0,GTM
+Guatemala,1930,0.0,GTM
+Guatemala,1940,4000.0,GTM
+Guatemala,1950,0.0,GTM
+Guatemala,1960,28.0,GTM
+Guatemala,1970,2300.5,GTM
+Guatemala,1980,71.9,GTM
+Guatemala,1990,52.7,GTM
+Guatemala,2000,189.3,GTM
+Guatemala,2010,122.2,GTM
+Guatemala,2020,73.833336,GTM
+Guinea,1900,0.0,GIN
+Guinea,1910,0.0,GIN
+Guinea,1920,0.0,GIN
+Guinea,1930,0.0,GIN
+Guinea,1940,0.0,GIN
+Guinea,1950,0.0,GIN
+Guinea,1960,0.0,GIN
+Guinea,1970,0.0,GIN
+Guinea,1980,44.3,GIN
+Guinea,1990,1.2,GIN
+Guinea,2000,1.1,GIN
+Guinea,2010,2.4,GIN
+Guinea,2020,5.5,GIN
+Guinea-Bissau,1900,0.0,GNB
+Guinea-Bissau,1910,0.0,GNB
+Guinea-Bissau,1920,0.0,GNB
+Guinea-Bissau,1930,0.0,GNB
+Guinea-Bissau,1940,0.0,GNB
+Guinea-Bissau,1950,0.0,GNB
+Guinea-Bissau,1960,0.0,GNB
+Guinea-Bissau,1970,0.0,GNB
+Guinea-Bissau,1980,0.1,GNB
+Guinea-Bissau,1990,0.3,GNB
+Guinea-Bissau,2000,0.3,GNB
+Guinea-Bissau,2010,0.5,GNB
+Guinea-Bissau,2020,0.0,GNB
+Guyana,1900,0.0,GUY
+Guyana,1910,0.0,GUY
+Guyana,1920,0.0,GUY
+Guyana,1930,0.0,GUY
+Guyana,1940,0.0,GUY
+Guyana,1950,0.0,GUY
+Guyana,1960,0.0,GUY
+Guyana,1970,0.0,GUY
+Guyana,1980,0.0,GUY
+Guyana,1990,0.0,GUY
+Guyana,2000,3.4,GUY
+Guyana,2010,0.0,GUY
+Guyana,2020,0.0,GUY
+Haiti,1900,15.0,HTI
+Haiti,1910,160.0,HTI
+Haiti,1920,0.0,HTI
+Haiti,1930,215.0,HTI
+Haiti,1940,0.0,HTI
+Haiti,1950,72.8,HTI
+Haiti,1960,610.6,HTI
+Haiti,1970,8.6,HTI
+Haiti,1980,48.2,HTI
+Haiti,1990,142.2,HTI
+Haiti,2000,656.9,HTI
+Haiti,2010,22350.4,HTI
+Haiti,2020,459.16666,HTI
+Honduras,1900,0.0,HND
+Honduras,1910,0.0,HND
+Honduras,1920,0.0,HND
+Honduras,1930,196.8,HND
+Honduras,1940,0.0,HND
+Honduras,1950,0.0,HND
+Honduras,1960,0.1,HND
+Honduras,1970,1082.1,HND
+Honduras,1980,15.9,HND
+Honduras,1990,1524.3,HND
+Honduras,2000,18.7,HND
+Honduras,2010,21.5,HND
+Honduras,2020,28.5,HND
+Hong Kong,1900,1000.0,HKG
+Hong Kong,1910,0.0,HKG
+Hong Kong,1920,10.0,HKG
+Hong Kong,1930,1100.0,HKG
+Hong Kong,1940,200.0,HKG
+Hong Kong,1950,5.1,HKG
+Hong Kong,1960,49.1,HKG
+Hong Kong,1970,42.1,HKG
+Hong Kong,1980,8.5,HKG
+Hong Kong,1990,20.3,HKG
+Hong Kong,2000,0.6,HKG
+Hong Kong,2010,0.2,HKG
+Hong Kong,2020,0.33333334,HKG
+Hungary,1900,0.0,HUN
+Hungary,1910,0.0,HUN
+Hungary,1920,0.0,HUN
+Hungary,1930,0.0,HUN
+Hungary,1940,0.0,HUN
+Hungary,1950,0.0,HUN
+Hungary,1960,0.0,HUN
+Hungary,1970,30.0,HUN
+Hungary,1980,0.4,HUN
+Hungary,1990,5.0,HUN
+Hungary,2000,65.6,HUN
+Hungary,2010,19.6,HUN
+Hungary,2020,375.0,HUN
+Iceland,1900,0.0,ISL
+Iceland,1910,0.0,ISL
+Iceland,1920,0.0,ISL
+Iceland,1930,0.0,ISL
+Iceland,1940,0.0,ISL
+Iceland,1950,0.0,ISL
+Iceland,1960,0.0,ISL
+Iceland,1970,1.3,ISL
+Iceland,1980,0.4,ISL
+Iceland,1990,3.4,ISL
+Iceland,2000,0.0,ISL
+Iceland,2010,0.0,ISL
+Iceland,2020,0.0,ISL
+India,1900,127000.0,IND
+India,1910,30.0,IND
+India,1920,204.3,IND
+India,1930,6033.3,IND
+India,1940,154680.4,IND
+India,1950,692.1,IND
+India,1960,151504.2,IND
+India,1970,3595.3,IND
+India,1980,2006.6,IND
+India,1990,4786.2,IND
+India,2000,5798.2,IND
+India,2010,2175.0,IND
+India,2020,1810.1666,IND
+Indonesia,1900,0.0,IDN
+Indonesia,1910,2015.8,IDN
+Indonesia,1920,96.5,IDN
+Indonesia,1930,270.1,IDN
+Indonesia,1940,21.3,IDN
+Indonesia,1950,218.0,IDN
+Indonesia,1960,1160.0,IDN
+Indonesia,1970,452.2,IDN
+Indonesia,1980,330.7,IDN
+Indonesia,1990,543.9,IDN
+Indonesia,2000,17874.0,IDN
+Indonesia,2010,812.8,IDN
+Indonesia,2020,275.16666,IDN
+Iran,1900,535.0,IRN
+Iran,1910,70.0,IRN
+Iran,1920,640.0,IRN
+Iran,1930,319.2,IRN
+Iran,1940,137.0,IRN
+Iran,1950,1137.5,IRN
+Iran,1960,2344.0,IRN
+Iran,1970,3209.0,IRN
+Iran,1980,512.2,IRN
+Iran,1990,4422.5,IRN
+Iran,2000,2855.6,IRN
+Iran,2010,107.1,IRN
+Iran,2020,39.666668,IRN
+Iraq,1900,0.0,IRQ
+Iraq,1910,0.0,IRQ
+Iraq,1920,0.0,IRQ
+Iraq,1930,0.0,IRQ
+Iraq,1940,0.0,IRQ
+Iraq,1950,0.0,IRQ
+Iraq,1960,0.0,IRQ
+Iraq,1970,0.0,IRQ
+Iraq,1980,0.0,IRQ
+Iraq,1990,2.0,IRQ
+Iraq,2000,2.6,IRQ
+Iraq,2010,12.0,IRQ
+Iraq,2020,5.1666665,IRQ
+Ireland,1900,0.0,IRL
+Ireland,1910,0.0,IRL
+Ireland,1920,0.0,IRL
+Ireland,1930,0.0,IRL
+Ireland,1940,0.0,IRL
+Ireland,1950,0.0,IRL
+Ireland,1960,0.0,IRL
+Ireland,1970,0.0,IRL
+Ireland,1980,2.1,IRL
+Ireland,1990,1.7,IRL
+Ireland,2000,0.1,IRL
+Ireland,2010,0.6,IRL
+Ireland,2020,20.666666,IRL
+Israel,1900,2.0,ISR
+Israel,1910,0.0,ISR
+Israel,1920,0.0,ISR
+Israel,1930,0.0,ISR
+Israel,1940,0.0,ISR
+Israel,1950,0.0,ISR
+Israel,1960,0.0,ISR
+Israel,1970,2.0,ISR
+Israel,1980,0.0,ISR
+Israel,1990,2.0,ISR
+Israel,2000,0.3,ISR
+Israel,2010,6.2,ISR
+Israel,2020,1.1666666,ISR
+Italy,1900,7625.7,ITA
+Italy,1910,3010.0,ITA
+Italy,1920,140.0,ITA
+Italy,1930,191.1,ITA
+Italy,1940,10.2,ITA
+Italy,1950,56.7,ITA
+Italy,1960,236.1,ITA
+Italy,1970,113.5,ITA
+Italy,1980,518.2,ITA
+Italy,1990,33.9,ITA
+Italy,2000,2055.2,ITA
+Italy,2010,51.7,ITA
+Italy,2020,8312.5,ITA
+Jamaica,1900,161.8,JAM
+Jamaica,1910,19.9,JAM
+Jamaica,1920,0.4,JAM
+Jamaica,1930,21.4,JAM
+Jamaica,1940,15.7,JAM
+Jamaica,1950,15.4,JAM
+Jamaica,1960,1.1,JAM
+Jamaica,1970,5.0,JAM
+Jamaica,1980,12.5,JAM
+Jamaica,1990,2.8,JAM
+Jamaica,2000,5.5,JAM
+Jamaica,2010,1.6,JAM
+Jamaica,2020,0.8333333,JAM
+Japan,1900,26.6,JPN
+Japan,1910,662.5,JPN
+Japan,1920,14978.8,JPN
+Japan,1930,722.5,JPN
+Japan,1940,2266.2,JPN
+Japan,1950,1973.5,JPN
+Japan,1960,303.2,JPN
+Japan,1970,162.3,JPN
+Japan,1980,159.7,JPN
+Japan,1990,616.1,JPN
+Japan,2000,81.9,JPN
+Japan,2010,2197.4,JPN
+Japan,2020,166.66667,JPN
+Jordan,1900,0.0,JOR
+Jordan,1910,0.0,JOR
+Jordan,1920,26.8,JOR
+Jordan,1930,0.0,JOR
+Jordan,1940,0.0,JOR
+Jordan,1950,0.0,JOR
+Jordan,1960,29.2,JOR
+Jordan,1970,0.0,JOR
+Jordan,1980,0.9,JOR
+Jordan,1990,2.7,JOR
+Jordan,2000,0.9,JOR
+Jordan,2010,3.4,JOR
+Jordan,2020,0.0,JOR
+Kazakhstan,1900,0.0,KAZ
+Kazakhstan,1910,45.0,KAZ
+Kazakhstan,1920,0.0,KAZ
+Kazakhstan,1930,0.0,KAZ
+Kazakhstan,1940,0.0,KAZ
+Kazakhstan,1950,0.0,KAZ
+Kazakhstan,1960,0.0,KAZ
+Kazakhstan,1970,0.0,KAZ
+Kazakhstan,1980,0.0,KAZ
+Kazakhstan,1990,12.2,KAZ
+Kazakhstan,2000,5.5,KAZ
+Kazakhstan,2010,5.3,KAZ
+Kazakhstan,2020,2.6666667,KAZ
+Kenya,1900,0.0,KEN
+Kenya,1910,0.0,KEN
+Kenya,1920,0.0,KEN
+Kenya,1930,0.0,KEN
+Kenya,1940,0.0,KEN
+Kenya,1950,0.0,KEN
+Kenya,1960,0.0,KEN
+Kenya,1970,10.0,KEN
+Kenya,1980,12.5,KEN
+Kenya,1990,17.2,KEN
+Kenya,2000,76.4,KEN
+Kenya,2010,98.9,KEN
+Kenya,2020,149.5,KEN
+Kiribati,1900,0.0,KIR
+Kiribati,1910,0.0,KIR
+Kiribati,1920,0.0,KIR
+Kiribati,1930,0.0,KIR
+Kiribati,1940,0.0,KIR
+Kiribati,1950,0.0,KIR
+Kiribati,1960,0.0,KIR
+Kiribati,1970,0.3,KIR
+Kiribati,1980,0.0,KIR
+Kiribati,1990,0.0,KIR
+Kiribati,2000,0.0,KIR
+Kiribati,2010,0.0,KIR
+Kiribati,2020,0.0,KIR
+Kuwait,1900,0.0,KWT
+Kuwait,1910,0.0,KWT
+Kuwait,1920,0.0,KWT
+Kuwait,1930,0.0,KWT
+Kuwait,1940,0.0,KWT
+Kuwait,1950,0.0,KWT
+Kuwait,1960,0.0,KWT
+Kuwait,1970,0.0,KWT
+Kuwait,1980,0.0,KWT
+Kuwait,1990,0.2,KWT
+Kuwait,2000,0.0,KWT
+Kuwait,2010,0.1,KWT
+Kuwait,2020,0.0,KWT
+Kyrgyzstan,1900,0.0,KGZ
+Kyrgyzstan,1910,0.0,KGZ
+Kyrgyzstan,1920,0.0,KGZ
+Kyrgyzstan,1930,0.0,KGZ
+Kyrgyzstan,1940,0.0,KGZ
+Kyrgyzstan,1950,0.0,KGZ
+Kyrgyzstan,1960,0.0,KGZ
+Kyrgyzstan,1970,0.0,KGZ
+Kyrgyzstan,1980,0.0,KGZ
+Kyrgyzstan,1990,22.1,KGZ
+Kyrgyzstan,2000,17.9,KGZ
+Kyrgyzstan,2010,4.0,KGZ
+Kyrgyzstan,2020,3.5,KGZ
+Laos,1900,0.0,LAO
+Laos,1910,0.0,LAO
+Laos,1920,0.0,LAO
+Laos,1930,0.0,LAO
+Laos,1940,0.0,LAO
+Laos,1950,0.0,LAO
+Laos,1960,30.2,LAO
+Laos,1970,4.5,LAO
+Laos,1980,1.4,LAO
+Laos,1990,9.6,LAO
+Laos,2000,4.9,LAO
+Laos,2010,23.5,LAO
+Laos,2020,5.0,LAO
+Latvia,1900,0.0,LVA
+Latvia,1910,0.0,LVA
+Latvia,1920,0.0,LVA
+Latvia,1930,0.0,LVA
+Latvia,1940,0.0,LVA
+Latvia,1950,0.0,LVA
+Latvia,1960,0.0,LVA
+Latvia,1970,0.0,LVA
+Latvia,1980,0.0,LVA
+Latvia,1990,0.6,LVA
+Latvia,2000,7.6,LVA
+Latvia,2010,1.0,LVA
+Latvia,2020,39.0,LVA
+Lebanon,1900,0.0,LBN
+Lebanon,1910,0.0,LBN
+Lebanon,1920,0.0,LBN
+Lebanon,1930,0.0,LBN
+Lebanon,1940,0.0,LBN
+Lebanon,1950,57.6,LBN
+Lebanon,1960,0.0,LBN
+Lebanon,1970,0.0,LBN
+Lebanon,1980,2.0,LBN
+Lebanon,1990,2.5,LBN
+Lebanon,2000,0.1,LBN
+Lebanon,2010,2.3,LBN
+Lebanon,2020,0.0,LBN
+Lesotho,1900,0.0,LSO
+Lesotho,1910,0.0,LSO
+Lesotho,1920,0.0,LSO
+Lesotho,1930,0.0,LSO
+Lesotho,1940,0.0,LSO
+Lesotho,1950,0.0,LSO
+Lesotho,1960,0.0,LSO
+Lesotho,1970,0.0,LSO
+Lesotho,1980,1.8,LSO
+Lesotho,1990,2.2,LSO
+Lesotho,2000,0.1,LSO
+Lesotho,2010,2.6,LSO
+Lesotho,2020,0.33333334,LSO
+Liberia,1900,0.0,LBR
+Liberia,1910,0.0,LBR
+Liberia,1920,0.0,LBR
+Liberia,1930,0.0,LBR
+Liberia,1940,0.0,LBR
+Liberia,1950,0.0,LBR
+Liberia,1960,0.0,LBR
+Liberia,1970,0.0,LBR
+Liberia,1980,4.6,LBR
+Liberia,1990,1.0,LBR
+Liberia,2000,0.3,LBR
+Liberia,2010,0.1,LBR
+Liberia,2020,0.33333334,LBR
+Libya,1900,0.0,LBY
+Libya,1910,0.0,LBY
+Libya,1920,0.0,LBY
+Libya,1930,0.0,LBY
+Libya,1940,0.0,LBY
+Libya,1950,0.0,LBY
+Libya,1960,30.0,LBY
+Libya,1970,0.0,LBY
+Libya,1980,0.0,LBY
+Libya,1990,0.0,LBY
+Libya,2000,0.0,LBY
+Libya,2010,2.0,LBY
+Libya,2020,2200.8333,LBY
+Liechtenstein,1900,0.0,LIE
+Liechtenstein,1910,0.0,LIE
+Liechtenstein,1920,0.0,LIE
+Liechtenstein,1930,0.0,LIE
+Liechtenstein,1940,0.0,LIE
+Liechtenstein,1950,0.0,LIE
+Liechtenstein,1960,0.0,LIE
+Liechtenstein,1970,0.0,LIE
+Liechtenstein,1980,0.0,LIE
+Liechtenstein,1990,0.0,LIE
+Liechtenstein,2000,0.0,LIE
+Liechtenstein,2010,0.0,LIE
+Liechtenstein,2020,0.16666667,LIE
+Lithuania,1900,0.0,LTU
+Lithuania,1910,0.0,LTU
+Lithuania,1920,0.0,LTU
+Lithuania,1930,0.0,LTU
+Lithuania,1940,0.0,LTU
+Lithuania,1950,0.0,LTU
+Lithuania,1960,0.0,LTU
+Lithuania,1970,0.0,LTU
+Lithuania,1980,0.0,LTU
+Lithuania,1990,4.0,LTU
+Lithuania,2000,2.0,LTU
+Lithuania,2010,4.4,LTU
+Lithuania,2020,159.5,LTU
+Luxembourg,1900,0.0,LUX
+Luxembourg,1910,0.0,LUX
+Luxembourg,1920,0.0,LUX
+Luxembourg,1930,0.0,LUX
+Luxembourg,1940,0.0,LUX
+Luxembourg,1950,0.0,LUX
+Luxembourg,1960,0.0,LUX
+Luxembourg,1970,0.0,LUX
+Luxembourg,1980,0.0,LUX
+Luxembourg,1990,0.0,LUX
+Luxembourg,2000,17.0,LUX
+Luxembourg,2010,0.0,LUX
+Luxembourg,2020,15.333333,LUX
+Macao,1900,0.0,MAC
+Macao,1910,0.0,MAC
+Macao,1920,0.0,MAC
+Macao,1930,0.0,MAC
+Macao,1940,0.0,MAC
+Macao,1950,0.0,MAC
+Macao,1960,0.0,MAC
+Macao,1970,0.0,MAC
+Macao,1980,0.0,MAC
+Macao,1990,0.0,MAC
+Macao,2000,0.0,MAC
+Macao,2010,1.0,MAC
+Macao,2020,0.0,MAC
+Madagascar,1900,0.0,MDG
+Madagascar,1910,0.0,MDG
+Madagascar,1920,0.0,MDG
+Madagascar,1930,0.0,MDG
+Madagascar,1940,0.0,MDG
+Madagascar,1950,0.0,MDG
+Madagascar,1960,11.0,MDG
+Madagascar,1970,26.4,MDG
+Madagascar,1980,52.7,MDG
+Madagascar,1990,55.8,MDG
+Madagascar,2000,100.6,MDG
+Madagascar,2010,64.8,MDG
+Madagascar,2020,68.0,MDG
+Malawi,1900,0.0,MWI
+Malawi,1910,0.0,MWI
+Malawi,1920,0.0,MWI
+Malawi,1930,0.0,MWI
+Malawi,1940,0.0,MWI
+Malawi,1950,0.0,MWI
+Malawi,1960,0.0,MWI
+Malawi,1970,0.0,MWI
+Malawi,1980,2.2,MWI
+Malawi,1990,47.7,MWI
+Malawi,2000,60.6,MWI
+Malawi,2010,37.9,MWI
+Malawi,2020,238.0,MWI
+Malaysia,1900,0.0,MYS
+Malaysia,1910,0.0,MYS
+Malaysia,1920,0.0,MYS
+Malaysia,1930,0.0,MYS
+Malaysia,1940,0.0,MYS
+Malaysia,1950,0.0,MYS
+Malaysia,1960,7.7,MYS
+Malaysia,1970,6.1,MYS
+Malaysia,1980,5.1,MYS
+Malaysia,1990,44.5,MYS
+Malaysia,2000,20.5,MYS
+Malaysia,2010,7.7,MYS
+Malaysia,2020,25.5,MYS
+Maldives,1900,0.0,MDV
+Maldives,1910,0.0,MDV
+Maldives,1920,0.0,MDV
+Maldives,1930,0.0,MDV
+Maldives,1940,0.0,MDV
+Maldives,1950,0.0,MDV
+Maldives,1960,0.0,MDV
+Maldives,1970,0.0,MDV
+Maldives,1980,0.0,MDV
+Maldives,1990,0.0,MDV
+Maldives,2000,10.2,MDV
+Maldives,2010,0.0,MDV
+Maldives,2020,0.0,MDV
+Mali,1900,0.0,MLI
+Mali,1910,0.0,MLI
+Mali,1920,0.0,MLI
+Mali,1930,0.0,MLI
+Mali,1940,0.0,MLI
+Mali,1950,0.0,MLI
+Mali,1960,0.0,MLI
+Mali,1970,0.0,MLI
+Mali,1980,1.8,MLI
+Mali,1990,0.5,MLI
+Mali,2000,6.3,MLI
+Mali,2010,7.1,MLI
+Mali,2020,17.0,MLI
+Malta,1900,0.0,MLT
+Malta,1910,0.0,MLT
+Malta,1920,0.0,MLT
+Malta,1930,0.0,MLT
+Malta,1940,0.0,MLT
+Malta,1950,0.0,MLT
+Malta,1960,0.0,MLT
+Malta,1970,0.0,MLT
+Malta,1980,0.0,MLT
+Malta,1990,0.0,MLT
+Malta,2000,0.0,MLT
+Malta,2010,0.0,MLT
+Malta,2020,24.333334,MLT
+Marshall Islands,1900,0.0,MHL
+Marshall Islands,1910,0.0,MHL
+Marshall Islands,1920,0.0,MHL
+Marshall Islands,1930,0.0,MHL
+Marshall Islands,1940,0.0,MHL
+Marshall Islands,1950,0.0,MHL
+Marshall Islands,1960,0.0,MHL
+Marshall Islands,1970,0.0,MHL
+Marshall Islands,1980,0.0,MHL
+Marshall Islands,1990,0.0,MHL
+Marshall Islands,2000,0.0,MHL
+Marshall Islands,2010,0.0,MHL
+Marshall Islands,2020,0.0,MHL
+Martinique,1900,3000.8,MTQ
+Martinique,1910,0.0,MTQ
+Martinique,1920,0.0,MTQ
+Martinique,1930,0.0,MTQ
+Martinique,1940,0.0,MTQ
+Martinique,1950,0.0,MTQ
+Martinique,1960,2.5,MTQ
+Martinique,1970,4.5,MTQ
+Martinique,1980,0.0,MTQ
+Martinique,1990,1.0,MTQ
+Martinique,2000,0.2,MTQ
+Martinique,2010,0.1,MTQ
+Martinique,2020,0.0,MTQ
+Mauritania,1900,0.0,MRT
+Mauritania,1910,0.0,MRT
+Mauritania,1920,0.0,MRT
+Mauritania,1930,0.0,MRT
+Mauritania,1940,0.0,MRT
+Mauritania,1950,0.0,MRT
+Mauritania,1960,0.0,MRT
+Mauritania,1970,0.0,MRT
+Mauritania,1980,0.0,MRT
+Mauritania,1990,0.5,MRT
+Mauritania,2000,4.5,MRT
+Mauritania,2010,2.9,MRT
+Mauritania,2020,4.0,MRT
+Mauritius,1900,0.0,MUS
+Mauritius,1910,0.0,MUS
+Mauritius,1920,0.0,MUS
+Mauritius,1930,0.0,MUS
+Mauritius,1940,0.0,MUS
+Mauritius,1950,0.0,MUS
+Mauritius,1960,4.2,MUS
+Mauritius,1970,1.6,MUS
+Mauritius,1980,0.2,MUS
+Mauritius,1990,0.5,MUS
+Mauritius,2000,0.5,MUS
+Mauritius,2010,1.1,MUS
+Mauritius,2020,0.6666667,MUS
+Mayotte,1900,0.0,MYT
+Mayotte,1910,0.0,MYT
+Mayotte,1920,0.0,MYT
+Mayotte,1930,0.0,MYT
+Mayotte,1940,0.0,MYT
+Mayotte,1950,0.0,MYT
+Mayotte,1960,0.0,MYT
+Mayotte,1970,0.0,MYT
+Mayotte,1980,0.0,MYT
+Mayotte,1990,0.0,MYT
+Mayotte,2000,0.0,MYT
+Mayotte,2010,0.0,MYT
+Mayotte,2020,5.8333335,MYT
+Mexico,1900,0.0,MEX
+Mexico,1910,4.5,MEX
+Mexico,1920,70.8,MEX
+Mexico,1930,43.4,MEX
+Mexico,1940,100.0,MEX
+Mexico,1950,444.2,MEX
+Mexico,1960,83.2,MEX
+Mexico,1970,156.7,MEX
+Mexico,1980,1086.4,MEX
+Mexico,1990,312.4,MEX
+Mexico,2000,74.2,MEX
+Mexico,2010,125.9,MEX
+Mexico,2020,103.833336,MEX
+Micronesia (country),1900,0.0,FSM
+Micronesia (country),1910,0.0,FSM
+Micronesia (country),1920,0.0,FSM
+Micronesia (country),1930,0.0,FSM
+Micronesia (country),1940,0.0,FSM
+Micronesia (country),1950,0.0,FSM
+Micronesia (country),1960,0.0,FSM
+Micronesia (country),1970,0.0,FSM
+Micronesia (country),1980,0.5,FSM
+Micronesia (country),1990,0.0,FSM
+Micronesia (country),2000,4.8,FSM
+Micronesia (country),2010,0.5,FSM
+Micronesia (country),2020,0.0,FSM
+Moldova,1900,0.0,MDA
+Moldova,1910,0.0,MDA
+Moldova,1920,0.0,MDA
+Moldova,1930,0.0,MDA
+Moldova,1940,0.0,MDA
+Moldova,1950,0.0,MDA
+Moldova,1960,0.0,MDA
+Moldova,1970,0.0,MDA
+Moldova,1980,0.0,MDA
+Moldova,1990,5.9,MDA
+Moldova,2000,1.9,MDA
+Moldova,2010,1.1,MDA
+Moldova,2020,0.6666667,MDA
+Mongolia,1900,0.0,MNG
+Mongolia,1910,0.0,MNG
+Mongolia,1920,0.0,MNG
+Mongolia,1930,0.0,MNG
+Mongolia,1940,0.0,MNG
+Mongolia,1950,120.0,MNG
+Mongolia,1960,5.7,MNG
+Mongolia,1970,0.0,MNG
+Mongolia,1980,0.0,MNG
+Mongolia,1990,12.0,MNG
+Mongolia,2000,13.5,MNG
+Mongolia,2010,3.4,MNG
+Mongolia,2020,6.0,MNG
+Montenegro,1900,0.0,MNE
+Montenegro,1910,0.0,MNE
+Montenegro,1920,0.0,MNE
+Montenegro,1930,0.0,MNE
+Montenegro,1940,0.0,MNE
+Montenegro,1950,0.0,MNE
+Montenegro,1960,0.0,MNE
+Montenegro,1970,0.0,MNE
+Montenegro,1980,0.0,MNE
+Montenegro,1990,0.0,MNE
+Montenegro,2000,0.0,MNE
+Montenegro,2010,0.1,MNE
+Montenegro,2020,37.666668,MNE
+Montserrat,1900,0.0,MSR
+Montserrat,1910,0.0,MSR
+Montserrat,1920,0.0,MSR
+Montserrat,1930,0.0,MSR
+Montserrat,1940,0.0,MSR
+Montserrat,1950,0.0,MSR
+Montserrat,1960,0.0,MSR
+Montserrat,1970,0.0,MSR
+Montserrat,1980,1.1,MSR
+Montserrat,1990,3.2,MSR
+Montserrat,2000,0.0,MSR
+Montserrat,2010,0.0,MSR
+Montserrat,2020,0.0,MSR
+Morocco,1900,10.0,MAR
+Morocco,1910,0.0,MAR
+Morocco,1920,0.0,MAR
+Morocco,1930,0.0,MAR
+Morocco,1940,0.0,MAR
+Morocco,1950,16.1,MAR
+Morocco,1960,1343.1,MAR
+Morocco,1970,3.7,MAR
+Morocco,1980,3.2,MAR
+Morocco,1990,89.0,MAR
+Morocco,2000,84.1,MAR
+Morocco,2010,14.1,MAR
+Morocco,2020,502.16666,MAR
+Mozambique,1900,0.0,MOZ
+Mozambique,1910,0.0,MOZ
+Mozambique,1920,0.0,MOZ
+Mozambique,1930,0.0,MOZ
+Mozambique,1940,0.0,MOZ
+Mozambique,1950,10.7,MOZ
+Mozambique,1960,0.0,MOZ
+Mozambique,1970,84.8,MOZ
+Mozambique,1980,10026.9,MOZ
+Mozambique,1990,39.6,MOZ
+Mozambique,2000,114.8,MOZ
+Mozambique,2010,115.3,MOZ
+Mozambique,2020,100.333336,MOZ
+Myanmar,1900,60.0,MMR
+Myanmar,1910,0.0,MMR
+Myanmar,1920,270.6,MMR
+Myanmar,1930,158.6,MMR
+Myanmar,1940,1.5,MMR
+Myanmar,1950,0.0,MMR
+Myanmar,1960,148.2,MMR
+Myanmar,1970,29.3,MMR
+Myanmar,1980,1.9,MMR
+Myanmar,1990,18.6,MMR
+Myanmar,2000,13885.0,MMR
+Myanmar,2010,116.9,MMR
+Myanmar,2020,785.8333,MMR
+Namibia,1900,0.0,NAM
+Namibia,1910,0.0,NAM
+Namibia,1920,0.0,NAM
+Namibia,1930,0.0,NAM
+Namibia,1940,0.0,NAM
+Namibia,1950,0.0,NAM
+Namibia,1960,0.0,NAM
+Namibia,1970,0.0,NAM
+Namibia,1980,0.0,NAM
+Namibia,1990,0.0,NAM
+Namibia,2000,14.8,NAM
+Namibia,2010,11.6,NAM
+Namibia,2020,2.6666667,NAM
+Nepal,1900,0.0,NPL
+Nepal,1910,0.0,NPL
+Nepal,1920,0.0,NPL
+Nepal,1930,0.0,NPL
+Nepal,1940,0.0,NPL
+Nepal,1950,6.0,NPL
+Nepal,1960,50.6,NPL
+Nepal,1970,88.1,NPL
+Nepal,1980,256.7,NPL
+Nepal,1990,287.9,NPL
+Nepal,2000,198.3,NPL
+Nepal,2010,1085.9,NPL
+Nepal,2020,259.0,NPL
+Netherlands,1900,0.0,NLD
+Netherlands,1910,1.5,NLD
+Netherlands,1920,0.0,NLD
+Netherlands,1930,0.0,NLD
+Netherlands,1940,0.0,NLD
+Netherlands,1950,200.0,NLD
+Netherlands,1960,0.0,NLD
+Netherlands,1970,0.0,NLD
+Netherlands,1980,0.0,NLD
+Netherlands,1990,2.4,NLD
+Netherlands,2000,197.6,NLD
+Netherlands,2010,50.6,NLD
+Netherlands,2020,246.16667,NLD
+Netherlands Antilles,1900,0.0,ANT
+Netherlands Antilles,1910,0.0,ANT
+Netherlands Antilles,1920,0.0,ANT
+Netherlands Antilles,1930,0.0,ANT
+Netherlands Antilles,1940,0.0,ANT
+Netherlands Antilles,1950,0.0,ANT
+Netherlands Antilles,1960,0.0,ANT
+Netherlands Antilles,1970,0.0,ANT
+Netherlands Antilles,1980,1.1,ANT
+Netherlands Antilles,1990,0.2,ANT
+Netherlands Antilles,2000,0.0,ANT
+Netherlands Antilles,2010,0.0,ANT
+Netherlands Antilles,2020,0.0,ANT
+New Caledonia,1900,0.0,NCL
+New Caledonia,1910,0.0,NCL
+New Caledonia,1920,0.0,NCL
+New Caledonia,1930,0.3,NCL
+New Caledonia,1940,0.2,NCL
+New Caledonia,1950,0.4,NCL
+New Caledonia,1960,0.0,NCL
+New Caledonia,1970,0.3,NCL
+New Caledonia,1980,0.4,NCL
+New Caledonia,1990,0.0,NCL
+New Caledonia,2000,0.2,NCL
+New Caledonia,2010,0.0,NCL
+New Caledonia,2020,0.0,NCL
+New Zealand,1900,0.0,NZL
+New Zealand,1910,0.0,NZL
+New Zealand,1920,1.7,NZL
+New Zealand,1930,27.7,NZL
+New Zealand,1940,0.0,NZL
+New Zealand,1950,15.0,NZL
+New Zealand,1960,5.3,NZL
+New Zealand,1970,0.0,NZL
+New Zealand,1980,1.3,NZL
+New Zealand,1990,0.4,NZL
+New Zealand,2000,0.6,NZL
+New Zealand,2010,20.9,NZL
+New Zealand,2020,2.6666667,NZL
+Nicaragua,1900,0.0,NIC
+Nicaragua,1910,0.0,NIC
+Nicaragua,1920,0.0,NIC
+Nicaragua,1930,200.0,NIC
+Nicaragua,1940,0.0,NIC
+Nicaragua,1950,50.0,NIC
+Nicaragua,1960,32.6,NIC
+Nicaragua,1970,1005.1,NIC
+Nicaragua,1980,20.1,NIC
+Nicaragua,1990,364.6,NIC
+Nicaragua,2000,28.0,NIC
+Nicaragua,2010,15.4,NIC
+Nicaragua,2020,4.5,NIC
+Niger,1900,0.0,NER
+Niger,1910,8500.0,NER
+Niger,1920,0.0,NER
+Niger,1930,0.0,NER
+Niger,1940,0.0,NER
+Niger,1950,0.0,NER
+Niger,1960,0.0,NER
+Niger,1970,0.0,NER
+Niger,1980,2.0,NER
+Niger,1990,7.4,NER
+Niger,2000,3.8,NER
+Niger,2010,42.8,NER
+Niger,2020,129.5,NER
+Nigeria,1900,0.0,NGA
+Nigeria,1910,0.0,NGA
+Nigeria,1920,0.0,NGA
+Nigeria,1930,0.0,NGA
+Nigeria,1940,0.0,NGA
+Nigeria,1950,0.0,NGA
+Nigeria,1960,0.0,NGA
+Nigeria,1970,10.0,NGA
+Nigeria,1980,13.0,NGA
+Nigeria,1990,25.2,NGA
+Nigeria,2000,62.8,NGA
+Nigeria,2010,108.0,NGA
+Nigeria,2020,282.66666,NGA
+Niue,1900,0.0,NIU
+Niue,1910,0.0,NIU
+Niue,1920,0.0,NIU
+Niue,1930,0.0,NIU
+Niue,1940,0.0,NIU
+Niue,1950,0.0,NIU
+Niue,1960,0.0,NIU
+Niue,1970,0.0,NIU
+Niue,1980,0.0,NIU
+Niue,1990,0.0,NIU
+Niue,2000,0.1,NIU
+Niue,2010,0.0,NIU
+Niue,2020,0.0,NIU
+North Korea,1900,0.0,PRK
+North Korea,1910,0.0,PRK
+North Korea,1920,0.0,PRK
+North Korea,1930,0.0,PRK
+North Korea,1940,0.0,PRK
+North Korea,1950,0.0,PRK
+North Korea,1960,0.0,PRK
+North Korea,1970,0.0,PRK
+North Korea,1980,31.5,PRK
+North Korea,1990,28.2,PRK
+North Korea,2000,127.8,PRK
+North Korea,2010,111.6,PRK
+North Korea,2020,3.6666667,PRK
+North Macedonia,1900,0.0,MKD
+North Macedonia,1910,0.0,MKD
+North Macedonia,1920,0.0,MKD
+North Macedonia,1930,0.0,MKD
+North Macedonia,1940,0.0,MKD
+North Macedonia,1950,0.0,MKD
+North Macedonia,1960,0.0,MKD
+North Macedonia,1970,0.0,MKD
+North Macedonia,1980,0.0,MKD
+North Macedonia,1990,0.0,MKD
+North Macedonia,2000,3.4,MKD
+North Macedonia,2010,3.4,MKD
+North Macedonia,2020,0.16666667,MKD
+Northern Mariana Islands,1900,0.0,MNP
+Northern Mariana Islands,1910,0.0,MNP
+Northern Mariana Islands,1920,0.0,MNP
+Northern Mariana Islands,1930,0.0,MNP
+Northern Mariana Islands,1940,0.0,MNP
+Northern Mariana Islands,1950,0.0,MNP
+Northern Mariana Islands,1960,0.0,MNP
+Northern Mariana Islands,1970,0.0,MNP
+Northern Mariana Islands,1980,0.0,MNP
+Northern Mariana Islands,1990,0.0,MNP
+Northern Mariana Islands,2000,0.3,MNP
+Northern Mariana Islands,2010,0.2,MNP
+Northern Mariana Islands,2020,0.0,MNP
+Norway,1900,0.0,NOR
+Norway,1910,0.0,NOR
+Norway,1920,0.0,NOR
+Norway,1930,7.3,NOR
+Norway,1940,0.0,NOR
+Norway,1950,0.0,NOR
+Norway,1960,0.0,NOR
+Norway,1970,0.0,NOR
+Norway,1980,0.0,NOR
+Norway,1990,0.1,NOR
+Norway,2000,0.1,NOR
+Norway,2010,0.5,NOR
+Norway,2020,14.5,NOR
+Oman,1900,0.0,OMN
+Oman,1910,0.0,OMN
+Oman,1920,0.0,OMN
+Oman,1930,0.0,OMN
+Oman,1940,0.0,OMN
+Oman,1950,0.0,OMN
+Oman,1960,0.0,OMN
+Oman,1970,10.7,OMN
+Oman,1980,2.6,OMN
+Oman,1990,0.0,OMN
+Oman,2000,10.6,OMN
+Oman,2010,4.7,OMN
+Oman,2020,8.333333,OMN
+Pakistan,1900,23.1,PAK
+Pakistan,1910,0.0,PAK
+Pakistan,1920,0.0,PAK
+Pakistan,1930,6000.0,PAK
+Pakistan,1940,400.0,PAK
+Pakistan,1950,386.2,PAK
+Pakistan,1960,1048.2,PAK
+Pakistan,1970,695.0,PAK
+Pakistan,1980,105.0,PAK
+Pakistan,1990,643.3,PAK
+Pakistan,2000,7711.7,PAK
+Pakistan,2010,762.5,PAK
+Pakistan,2020,871.8333,PAK
+Palau,1900,0.0,PLW
+Palau,1910,0.0,PLW
+Palau,1920,0.0,PLW
+Palau,1930,0.0,PLW
+Palau,1940,0.0,PLW
+Palau,1950,0.0,PLW
+Palau,1960,0.0,PLW
+Palau,1970,0.0,PLW
+Palau,1980,0.0,PLW
+Palau,1990,0.0,PLW
+Palau,2000,0.0,PLW
+Palau,2010,0.0,PLW
+Palau,2020,0.0,PLW
+Palestine,1900,0.0,PSE
+Palestine,1910,0.0,PSE
+Palestine,1920,0.0,PSE
+Palestine,1930,0.0,PSE
+Palestine,1940,0.0,PSE
+Palestine,1950,0.0,PSE
+Palestine,1960,0.0,PSE
+Palestine,1970,0.0,PSE
+Palestine,1980,0.0,PSE
+Palestine,1990,0.0,PSE
+Palestine,2000,0.0,PSE
+Palestine,2010,1.0,PSE
+Palestine,2020,1.1666666,PSE
+Panama,1900,0.0,PAN
+Panama,1910,0.0,PAN
+Panama,1920,0.0,PAN
+Panama,1930,0.0,PAN
+Panama,1940,0.0,PAN
+Panama,1950,0.0,PAN
+Panama,1960,2.1,PAN
+Panama,1970,7.4,PAN
+Panama,1980,3.3,PAN
+Panama,1990,5.9,PAN
+Panama,2000,6.8,PAN
+Panama,2010,4.4,PAN
+Panama,2020,17.0,PAN
+Papua New Guinea,1900,0.0,PNG
+Papua New Guinea,1910,0.0,PNG
+Papua New Guinea,1920,0.0,PNG
+Papua New Guinea,1930,50.6,PNG
+Papua New Guinea,1940,0.0,PNG
+Papua New Guinea,1950,600.0,PNG
+Papua New Guinea,1960,0.0,PNG
+Papua New Guinea,1970,12.8,PNG
+Papua New Guinea,1980,14.3,PNG
+Papua New Guinea,1990,259.1,PNG
+Papua New Guinea,2000,27.5,PNG
+Papua New Guinea,2010,28.2,PNG
+Papua New Guinea,2020,125.833336,PNG
+Paraguay,1900,0.0,PRY
+Paraguay,1910,0.0,PRY
+Paraguay,1920,0.0,PRY
+Paraguay,1930,0.0,PRY
+Paraguay,1940,0.0,PRY
+Paraguay,1950,0.0,PRY
+Paraguay,1960,0.6,PRY
+Paraguay,1970,0.0,PRY
+Paraguay,1980,7.6,PRY
+Paraguay,1990,8.9,PRY
+Paraguay,2000,3.1,PRY
+Paraguay,2010,7.1,PRY
+Paraguay,2020,2.6666667,PRY
+Peru,1900,0.0,PER
+Peru,1910,18.4,PER
+Peru,1920,0.0,PER
+Peru,1930,3.7,PER
+Peru,1940,704.2,PER
+Peru,1950,25.0,PER
+Peru,1960,253.0,PER
+Peru,1970,6863.4,PER
+Peru,1980,209.2,PER
+Peru,1990,157.3,PER
+Peru,2000,194.4,PER
+Peru,2010,195.2,PER
+Peru,2020,38.666668,PER
+Philippines,1900,24.0,PHL
+Philippines,1910,143.5,PHL
+Philippines,1920,1.7,PHL
+Philippines,1930,128.6,PHL
+Philippines,1940,140.5,PHL
+Philippines,1950,341.2,PHL
+Philippines,1960,241.8,PHL
+Philippines,1970,1313.7,PHL
+Philippines,1980,842.1,PHL
+Philippines,1990,1424.1,PHL
+Philippines,2000,937.2,PHL
+Philippines,2010,1378.9,PHL
+Philippines,2020,360.33334,PHL
+Poland,1900,0.0,POL
+Poland,1910,0.0,POL
+Poland,1920,8.2,POL
+Poland,1930,5.5,POL
+Poland,1940,0.0,POL
+Poland,1950,0.0,POL
+Poland,1960,0.0,POL
+Poland,1970,0.0,POL
+Poland,1980,0.1,POL
+Poland,1990,37.1,POL
+Poland,2000,108.8,POL
+Poland,2010,84.5,POL
+Poland,2020,530.3333,POL
+Portugal,1900,3.0,PRT
+Portugal,1910,0.0,PRT
+Portugal,1920,0.0,PRT
+Portugal,1930,0.0,PRT
+Portugal,1940,14.7,PRT
+Portugal,1950,0.0,PRT
+Portugal,1960,48.9,PRT
+Portugal,1970,3.4,PRT
+Portugal,1980,14.7,PRT
+Portugal,1990,6.1,PRT
+Portugal,2000,324.7,PRT
+Portugal,2010,17.5,PRT
+Portugal,2020,765.6667,PRT
+Puerto Rico,1900,0.0,PRI
+Puerto Rico,1910,11.6,PRI
+Puerto Rico,1920,32.5,PRI
+Puerto Rico,1930,25.7,PRI
+Puerto Rico,1940,0.0,PRI
+Puerto Rico,1950,1.6,PRI
+Puerto Rico,1960,0.0,PRI
+Puerto Rico,1970,8.9,PRI
+Puerto Rico,1980,62.6,PRI
+Puerto Rico,1990,3.8,PRI
+Puerto Rico,2000,0.7,PRI
+Puerto Rico,2010,6.8,PRI
+Puerto Rico,2020,5.0,PRI
+Qatar,1900,0.0,QAT
+Qatar,1910,0.0,QAT
+Qatar,1920,0.0,QAT
+Qatar,1930,0.0,QAT
+Qatar,1940,0.0,QAT
+Qatar,1950,0.0,QAT
+Qatar,1960,0.0,QAT
+Qatar,1970,0.0,QAT
+Qatar,1980,0.0,QAT
+Qatar,1990,0.0,QAT
+Qatar,2000,0.0,QAT
+Qatar,2010,0.0,QAT
+Qatar,2020,0.0,QAT
+Reunion,1900,0.0,REU
+Reunion,1910,0.0,REU
+Reunion,1920,0.0,REU
+Reunion,1930,0.0,REU
+Reunion,1940,16.5,REU
+Reunion,1950,0.0,REU
+Reunion,1960,0.0,REU
+Reunion,1970,0.0,REU
+Reunion,1980,5.5,REU
+Reunion,1990,1.4,REU
+Reunion,2000,0.4,REU
+Reunion,2010,0.1,REU
+Reunion,2020,1.5,REU
+Romania,1900,0.0,ROU
+Romania,1910,0.0,ROU
+Romania,1920,100.6,ROU
+Romania,1930,0.0,ROU
+Romania,1940,98.0,ROU
+Romania,1950,0.0,ROU
+Romania,1960,0.0,ROU
+Romania,1970,191.6,ROU
+Romania,1980,0.0,ROU
+Romania,1990,31.7,ROU
+Romania,2000,49.7,ROU
+Romania,2010,20.7,ROU
+Romania,2020,1666.5,ROU
+Russia,1900,0.0,RUS
+Russia,1910,0.0,RUS
+Russia,1920,0.0,RUS
+Russia,1930,0.0,RUS
+Russia,1940,0.0,RUS
+Russia,1950,0.0,RUS
+Russia,1960,0.0,RUS
+Russia,1970,0.0,RUS
+Russia,1980,0.0,RUS
+Russia,1990,332.9,RUS
+Russia,2000,185.5,RUS
+Russia,2010,5638.6,RUS
+Russia,2020,12.666667,RUS
+Rwanda,1900,0.0,RWA
+Rwanda,1910,0.0,RWA
+Rwanda,1920,0.0,RWA
+Rwanda,1930,0.0,RWA
+Rwanda,1940,0.0,RWA
+Rwanda,1950,0.0,RWA
+Rwanda,1960,0.0,RWA
+Rwanda,1970,0.0,RWA
+Rwanda,1980,28.5,RWA
+Rwanda,1990,0.0,RWA
+Rwanda,2000,21.6,RWA
+Rwanda,2010,26.6,RWA
+Rwanda,2020,47.5,RWA
+Saint Barthelemy,1900,0.0,BLM
+Saint Barthelemy,1910,0.0,BLM
+Saint Barthelemy,1920,0.0,BLM
+Saint Barthelemy,1930,0.0,BLM
+Saint Barthelemy,1940,0.0,BLM
+Saint Barthelemy,1950,0.0,BLM
+Saint Barthelemy,1960,0.0,BLM
+Saint Barthelemy,1970,0.0,BLM
+Saint Barthelemy,1980,0.0,BLM
+Saint Barthelemy,1990,0.0,BLM
+Saint Barthelemy,2000,0.0,BLM
+Saint Barthelemy,2010,0.4,BLM
+Saint Barthelemy,2020,0.0,BLM
+Saint Helena,1900,0.0,SHN
+Saint Helena,1910,0.0,SHN
+Saint Helena,1920,0.0,SHN
+Saint Helena,1930,0.0,SHN
+Saint Helena,1940,0.0,SHN
+Saint Helena,1950,0.0,SHN
+Saint Helena,1960,0.0,SHN
+Saint Helena,1970,0.0,SHN
+Saint Helena,1980,0.0,SHN
+Saint Helena,1990,0.0,SHN
+Saint Helena,2000,0.0,SHN
+Saint Helena,2010,0.0,SHN
+Saint Helena,2020,0.0,SHN
+Saint Kitts and Nevis,1900,0.0,KNA
+Saint Kitts and Nevis,1910,0.0,KNA
+Saint Kitts and Nevis,1920,0.0,KNA
+Saint Kitts and Nevis,1930,0.0,KNA
+Saint Kitts and Nevis,1940,0.0,KNA
+Saint Kitts and Nevis,1950,0.0,KNA
+Saint Kitts and Nevis,1960,0.0,KNA
+Saint Kitts and Nevis,1970,0.0,KNA
+Saint Kitts and Nevis,1980,0.1,KNA
+Saint Kitts and Nevis,1990,0.5,KNA
+Saint Kitts and Nevis,2000,0.0,KNA
+Saint Kitts and Nevis,2010,0.0,KNA
+Saint Kitts and Nevis,2020,0.0,KNA
+Saint Lucia,1900,0.0,LCA
+Saint Lucia,1910,0.0,LCA
+Saint Lucia,1920,0.0,LCA
+Saint Lucia,1930,0.0,LCA
+Saint Lucia,1940,0.0,LCA
+Saint Lucia,1950,0.0,LCA
+Saint Lucia,1960,1.0,LCA
+Saint Lucia,1970,0.0,LCA
+Saint Lucia,1980,0.9,LCA
+Saint Lucia,1990,0.4,LCA
+Saint Lucia,2000,0.1,LCA
+Saint Lucia,2010,2.0,LCA
+Saint Lucia,2020,0.16666667,LCA
+Saint Martin (French part),1900,0.0,MAF
+Saint Martin (French part),1910,0.0,MAF
+Saint Martin (French part),1920,0.0,MAF
+Saint Martin (French part),1930,0.0,MAF
+Saint Martin (French part),1940,0.0,MAF
+Saint Martin (French part),1950,0.0,MAF
+Saint Martin (French part),1960,0.0,MAF
+Saint Martin (French part),1970,0.0,MAF
+Saint Martin (French part),1980,0.0,MAF
+Saint Martin (French part),1990,0.0,MAF
+Saint Martin (French part),2000,0.0,MAF
+Saint Martin (French part),2010,1.2,MAF
+Saint Martin (French part),2020,0.0,MAF
+Saint Vincent and the Grenadines,1900,156.5,VCT
+Saint Vincent and the Grenadines,1910,0.0,VCT
+Saint Vincent and the Grenadines,1920,0.0,VCT
+Saint Vincent and the Grenadines,1930,0.0,VCT
+Saint Vincent and the Grenadines,1940,0.0,VCT
+Saint Vincent and the Grenadines,1950,12.2,VCT
+Saint Vincent and the Grenadines,1960,0.2,VCT
+Saint Vincent and the Grenadines,1970,0.2,VCT
+Saint Vincent and the Grenadines,1980,0.0,VCT
+Saint Vincent and the Grenadines,1990,0.3,VCT
+Saint Vincent and the Grenadines,2000,0.4,VCT
+Saint Vincent and the Grenadines,2010,1.3,VCT
+Saint Vincent and the Grenadines,2020,1.3333334,VCT
+Samoa,1900,0.0,WSM
+Samoa,1910,0.0,WSM
+Samoa,1920,0.0,WSM
+Samoa,1930,0.0,WSM
+Samoa,1940,0.0,WSM
+Samoa,1950,0.0,WSM
+Samoa,1960,26.0,WSM
+Samoa,1970,0.0,WSM
+Samoa,1980,0.0,WSM
+Samoa,1990,2.1,WSM
+Samoa,2000,15.8,WSM
+Samoa,2010,1.2,WSM
+Samoa,2020,0.0,WSM
+Sao Tome and Principe,1900,0.0,STP
+Sao Tome and Principe,1910,0.0,STP
+Sao Tome and Principe,1920,0.0,STP
+Sao Tome and Principe,1930,0.0,STP
+Sao Tome and Principe,1940,0.0,STP
+Sao Tome and Principe,1950,0.0,STP
+Sao Tome and Principe,1960,0.0,STP
+Sao Tome and Principe,1970,0.0,STP
+Sao Tome and Principe,1980,0.0,STP
+Sao Tome and Principe,1990,0.0,STP
+Sao Tome and Principe,2000,0.0,STP
+Sao Tome and Principe,2010,0.0,STP
+Sao Tome and Principe,2020,1.3333334,STP
+Saudi Arabia,1900,0.0,SAU
+Saudi Arabia,1910,0.0,SAU
+Saudi Arabia,1920,0.0,SAU
+Saudi Arabia,1930,0.0,SAU
+Saudi Arabia,1940,0.0,SAU
+Saudi Arabia,1950,0.0,SAU
+Saudi Arabia,1960,2.0,SAU
+Saudi Arabia,1970,0.0,SAU
+Saudi Arabia,1980,3.2,SAU
+Saudi Arabia,1990,0.0,SAU
+Saudi Arabia,2000,26.0,SAU
+Saudi Arabia,2010,16.4,SAU
+Saudi Arabia,2020,217.33333,SAU
+Senegal,1900,0.0,SEN
+Senegal,1910,0.0,SEN
+Senegal,1920,0.0,SEN
+Senegal,1930,0.0,SEN
+Senegal,1940,0.0,SEN
+Senegal,1950,0.0,SEN
+Senegal,1960,0.0,SEN
+Senegal,1970,0.0,SEN
+Senegal,1980,0.0,SEN
+Senegal,1990,18.7,SEN
+Senegal,2000,5.3,SEN
+Senegal,2010,4.0,SEN
+Senegal,2020,1.8333334,SEN
+Serbia,1900,0.0,SRB
+Serbia,1910,0.0,SRB
+Serbia,1920,0.0,SRB
+Serbia,1930,0.0,SRB
+Serbia,1940,0.0,SRB
+Serbia,1950,0.0,SRB
+Serbia,1960,0.0,SRB
+Serbia,1970,0.0,SRB
+Serbia,1980,0.0,SRB
+Serbia,1990,0.0,SRB
+Serbia,2000,0.0,SRB
+Serbia,2010,9.5,SRB
+Serbia,2020,593.0,SRB
+Serbia and Montenegro,1900,0.0,SRB
+Serbia and Montenegro,1910,0.0,SRB
+Serbia and Montenegro,1920,0.0,SRB
+Serbia and Montenegro,1930,0.0,SRB
+Serbia and Montenegro,1940,0.0,SRB
+Serbia and Montenegro,1950,0.0,SRB
+Serbia and Montenegro,1960,0.0,SRB
+Serbia and Montenegro,1970,0.0,SRB
+Serbia and Montenegro,1980,0.0,SRB
+Serbia and Montenegro,1990,1.2,SRB
+Serbia and Montenegro,2000,1.1,SRB
+Serbia and Montenegro,2010,0.0,SRB
+Serbia and Montenegro,2020,0.0,SRB
+Seychelles,1900,0.0,SYC
+Seychelles,1910,0.0,SYC
+Seychelles,1920,0.0,SYC
+Seychelles,1930,0.0,SYC
+Seychelles,1940,0.0,SYC
+Seychelles,1950,0.0,SYC
+Seychelles,1960,0.0,SYC
+Seychelles,1970,0.0,SYC
+Seychelles,1980,0.0,SYC
+Seychelles,1990,0.5,SYC
+Seychelles,2000,0.3,SYC
+Seychelles,2010,0.0,SYC
+Seychelles,2020,0.0,SYC
+Sierra Leone,1900,0.0,SLE
+Sierra Leone,1910,0.0,SLE
+Sierra Leone,1920,0.0,SLE
+Sierra Leone,1930,0.0,SLE
+Sierra Leone,1940,0.0,SLE
+Sierra Leone,1950,0.0,SLE
+Sierra Leone,1960,0.0,SLE
+Sierra Leone,1970,0.1,SLE
+Sierra Leone,1980,6.0,SLE
+Sierra Leone,1990,2.5,SLE
+Sierra Leone,2000,13.3,SLE
+Sierra Leone,2010,115.6,SLE
+Sierra Leone,2020,4.5,SLE
+Sint Maarten (Dutch part),1900,0.0,SXM
+Sint Maarten (Dutch part),1910,0.0,SXM
+Sint Maarten (Dutch part),1920,0.0,SXM
+Sint Maarten (Dutch part),1930,0.0,SXM
+Sint Maarten (Dutch part),1940,0.0,SXM
+Sint Maarten (Dutch part),1950,0.0,SXM
+Sint Maarten (Dutch part),1960,0.0,SXM
+Sint Maarten (Dutch part),1970,0.0,SXM
+Sint Maarten (Dutch part),1980,0.0,SXM
+Sint Maarten (Dutch part),1990,0.0,SXM
+Sint Maarten (Dutch part),2000,0.0,SXM
+Sint Maarten (Dutch part),2010,0.4,SXM
+Sint Maarten (Dutch part),2020,0.0,SXM
+Slovakia,1900,0.0,SVK
+Slovakia,1910,0.0,SVK
+Slovakia,1920,0.0,SVK
+Slovakia,1930,0.0,SVK
+Slovakia,1940,0.0,SVK
+Slovakia,1950,0.0,SVK
+Slovakia,1960,0.0,SVK
+Slovakia,1970,0.0,SVK
+Slovakia,1980,0.0,SVK
+Slovakia,1990,5.7,SVK
+Slovakia,2000,1.3,SVK
+Slovakia,2010,13.6,SVK
+Slovakia,2020,189.5,SVK
+Slovenia,1900,0.0,SVN
+Slovenia,1910,0.0,SVN
+Slovenia,1920,0.0,SVN
+Slovenia,1930,0.0,SVN
+Slovenia,1940,0.0,SVN
+Slovenia,1950,0.0,SVN
+Slovenia,1960,0.0,SVN
+Slovenia,1970,0.0,SVN
+Slovenia,1980,0.0,SVN
+Slovenia,1990,0.0,SVN
+Slovenia,2000,29.6,SVN
+Slovenia,2010,0.6,SVN
+Slovenia,2020,89.5,SVN
+Solomon Islands,1900,0.0,SLB
+Solomon Islands,1910,0.0,SLB
+Solomon Islands,1920,0.0,SLB
+Solomon Islands,1930,5.0,SLB
+Solomon Islands,1940,0.0,SLB
+Solomon Islands,1950,20.0,SLB
+Solomon Islands,1960,1.6,SLB
+Solomon Islands,1970,23.6,SLB
+Solomon Islands,1980,10.2,SLB
+Solomon Islands,1990,0.4,SLB
+Solomon Islands,2000,7.3,SLB
+Solomon Islands,2010,6.8,SLB
+Solomon Islands,2020,8.0,SLB
+Somalia,1900,0.0,SOM
+Somalia,1910,0.0,SOM
+Somalia,1920,0.0,SOM
+Somalia,1930,0.0,SOM
+Somalia,1940,0.0,SOM
+Somalia,1950,0.0,SOM
+Somalia,1960,25.0,SOM
+Somalia,1970,1900.0,SOM
+Somalia,1980,63.9,SOM
+Somalia,1990,246.4,SOM
+Somalia,2000,45.6,SOM
+Somalia,2010,2030.1,SOM
+Somalia,2020,47.5,SOM
+South Africa,1900,0.0,ZAF
+South Africa,1910,0.0,ZAF
+South Africa,1920,0.0,ZAF
+South Africa,1930,0.0,ZAF
+South Africa,1940,0.0,ZAF
+South Africa,1950,8.6,ZAF
+South Africa,1960,0.9,ZAF
+South Africa,1970,5.6,ZAF
+South Africa,1980,70.9,ZAF
+South Africa,1990,45.8,ZAF
+South Africa,2000,32.4,ZAF
+South Africa,2010,29.3,ZAF
+South Africa,2020,150.0,ZAF
+South Korea,1900,0.0,KOR
+South Korea,1910,0.0,KOR
+South Korea,1920,0.0,KOR
+South Korea,1930,110.4,KOR
+South Korea,1940,0.0,KOR
+South Korea,1950,133.4,KOR
+South Korea,1960,179.4,KOR
+South Korea,1970,140.5,KOR
+South Korea,1980,145.2,KOR
+South Korea,1990,115.9,KOR
+South Korea,2000,62.3,KOR
+South Korea,2010,23.2,KOR
+South Korea,2020,43.166668,KOR
+South Sudan,1900,0.0,SSD
+South Sudan,1910,0.0,SSD
+South Sudan,1920,0.0,SSD
+South Sudan,1930,0.0,SSD
+South Sudan,1940,0.0,SSD
+South Sudan,1950,0.0,SSD
+South Sudan,1960,0.0,SSD
+South Sudan,1970,0.0,SSD
+South Sudan,1980,0.0,SSD
+South Sudan,1990,0.0,SSD
+South Sudan,2000,1.7,SSD
+South Sudan,2010,19.9,SSD
+South Sudan,2020,1.1666666,SSD
+Spain,1900,5.3,ESP
+Spain,1910,0.0,ESP
+Spain,1920,0.0,ESP
+Spain,1930,0.0,ESP
+Spain,1940,11.0,ESP
+Spain,1950,15.0,ESP
+Spain,1960,81.5,ESP
+Spain,1970,74.3,ESP
+Spain,1980,22.2,ESP
+Spain,1990,21.7,ESP
+Spain,2000,1529.4,ESP
+Spain,2010,9.5,ESP
+Spain,2020,4447.5,ESP
+Sri Lanka,1900,0.0,LKA
+Sri Lanka,1910,0.0,LKA
+Sri Lanka,1920,0.0,LKA
+Sri Lanka,1930,0.0,LKA
+Sri Lanka,1940,0.0,LKA
+Sri Lanka,1950,20.0,LKA
+Sri Lanka,1960,31.5,LKA
+Sri Lanka,1970,80.4,LKA
+Sri Lanka,1980,48.3,LKA
+Sri Lanka,1990,17.0,LKA
+Sri Lanka,2000,3577.6,LKA
+Sri Lanka,2010,123.4,LKA
+Sri Lanka,2020,21.833334,LKA
+Sudan,1900,0.0,SDN
+Sudan,1910,0.0,SDN
+Sudan,1920,0.0,SDN
+Sudan,1930,0.0,SDN
+Sudan,1940,0.0,SDN
+Sudan,1950,0.0,SDN
+Sudan,1960,0.0,SDN
+Sudan,1970,3.4,SDN
+Sudan,1980,15009.6,SDN
+Sudan,1990,38.0,SDN
+Sudan,2000,25.8,SDN
+Sudan,2010,56.2,SDN
+Sudan,2020,86.166664,SDN
+Suriname,1900,0.0,SUR
+Suriname,1910,0.0,SUR
+Suriname,1920,0.0,SUR
+Suriname,1930,0.0,SUR
+Suriname,1940,0.0,SUR
+Suriname,1950,0.0,SUR
+Suriname,1960,0.0,SUR
+Suriname,1970,0.0,SUR
+Suriname,1980,0.0,SUR
+Suriname,1990,0.0,SUR
+Suriname,2000,0.5,SUR
+Suriname,2010,0.0,SUR
+Suriname,2020,0.0,SUR
+Sweden,1900,0.0,SWE
+Sweden,1910,0.0,SWE
+Sweden,1920,0.0,SWE
+Sweden,1930,0.0,SWE
+Sweden,1940,0.0,SWE
+Sweden,1950,0.0,SWE
+Sweden,1960,0.0,SWE
+Sweden,1970,1.3,SWE
+Sweden,1980,1.1,SWE
+Sweden,1990,0.3,SWE
+Sweden,2000,0.8,SWE
+Sweden,2010,0.7,SWE
+Sweden,2020,14.0,SWE
+Switzerland,1900,0.0,CHE
+Switzerland,1910,0.0,CHE
+Switzerland,1920,0.0,CHE
+Switzerland,1930,0.0,CHE
+Switzerland,1940,0.0,CHE
+Switzerland,1950,9.2,CHE
+Switzerland,1960,11.0,CHE
+Switzerland,1970,4.6,CHE
+Switzerland,1980,0.3,CHE
+Switzerland,1990,5.2,CHE
+Switzerland,2000,106.7,CHE
+Switzerland,2010,2.5,CHE
+Switzerland,2020,164.5,CHE
+Syria,1900,0.0,SYR
+Syria,1910,0.0,SYR
+Syria,1920,0.0,SYR
+Syria,1930,0.0,SYR
+Syria,1940,0.0,SYR
+Syria,1950,0.0,SYR
+Syria,1960,0.0,SYR
+Syria,1970,0.0,SYR
+Syria,1980,0.0,SYR
+Syria,1990,0.0,SYR
+Syria,2000,11.8,SYR
+Syria,2010,1.5,SYR
+Syria,2020,946.0,SYR
+Taiwan,1900,143.0,TWN
+Taiwan,1910,129.5,TWN
+Taiwan,1920,100.5,TWN
+Taiwan,1930,603.6,TWN
+Taiwan,1940,37.7,TWN
+Taiwan,1950,134.5,TWN
+Taiwan,1960,96.3,TWN
+Taiwan,1970,10.6,TWN
+Taiwan,1980,30.5,TWN
+Taiwan,1990,249.1,TWN
+Taiwan,2000,112.7,TWN
+Taiwan,2010,38.4,TWN
+Taiwan,2020,17.833334,TWN
+Tajikistan,1900,0.0,TJK
+Tajikistan,1910,0.0,TJK
+Tajikistan,1920,0.0,TJK
+Tajikistan,1930,0.0,TJK
+Tajikistan,1940,0.0,TJK
+Tajikistan,1950,0.0,TJK
+Tajikistan,1960,0.0,TJK
+Tajikistan,1970,0.0,TJK
+Tajikistan,1980,0.0,TJK
+Tajikistan,1990,173.5,TJK
+Tajikistan,2000,16.2,TJK
+Tajikistan,2010,13.7,TJK
+Tajikistan,2020,8.5,TJK
+Tanzania,1900,0.0,TZA
+Tanzania,1910,0.0,TZA
+Tanzania,1920,0.0,TZA
+Tanzania,1930,0.0,TZA
+Tanzania,1940,0.0,TZA
+Tanzania,1950,0.0,TZA
+Tanzania,1960,4.4,TZA
+Tanzania,1970,2.5,TZA
+Tanzania,1980,1.0,TZA
+Tanzania,1990,42.5,TZA
+Tanzania,2000,17.9,TZA
+Tanzania,2010,25.0,TZA
+Tanzania,2020,68.5,TZA
+Thailand,1900,0.0,THA
+Thailand,1910,0.0,THA
+Thailand,1920,0.0,THA
+Thailand,1930,0.0,THA
+Thailand,1940,0.0,THA
+Thailand,1950,0.0,THA
+Thailand,1960,77.5,THA
+Thailand,1970,38.5,THA
+Thailand,1980,138.5,THA
+Thailand,1990,86.4,THA
+Thailand,2000,934.5,THA
+Thailand,2010,154.5,THA
+Thailand,2020,61.833332,THA
+Togo,1900,0.0,TGO
+Togo,1910,0.0,TGO
+Togo,1920,0.0,TGO
+Togo,1930,0.0,TGO
+Togo,1940,0.0,TGO
+Togo,1950,0.0,TGO
+Togo,1960,0.0,TGO
+Togo,1970,0.0,TGO
+Togo,1980,0.0,TGO
+Togo,1990,0.3,TGO
+Togo,2000,4.7,TGO
+Togo,2010,2.2,TGO
+Togo,2020,1.8333334,TGO
+Tokelau,1900,0.0,TKL
+Tokelau,1910,0.0,TKL
+Tokelau,1920,0.0,TKL
+Tokelau,1930,0.0,TKL
+Tokelau,1940,0.0,TKL
+Tokelau,1950,0.0,TKL
+Tokelau,1960,0.0,TKL
+Tokelau,1970,0.0,TKL
+Tokelau,1980,0.0,TKL
+Tokelau,1990,0.0,TKL
+Tokelau,2000,0.0,TKL
+Tokelau,2010,0.0,TKL
+Tokelau,2020,0.0,TKL
+Tonga,1900,0.0,TON
+Tonga,1910,0.0,TON
+Tonga,1920,0.0,TON
+Tonga,1930,0.0,TON
+Tonga,1940,0.0,TON
+Tonga,1950,0.0,TON
+Tonga,1960,0.2,TON
+Tonga,1970,0.4,TON
+Tonga,1980,0.7,TON
+Tonga,1990,0.1,TON
+Tonga,2000,0.9,TON
+Tonga,2010,0.4,TON
+Tonga,2020,0.6666667,TON
+Trinidad and Tobago,1900,0.0,TTO
+Trinidad and Tobago,1910,0.0,TTO
+Trinidad and Tobago,1920,0.0,TTO
+Trinidad and Tobago,1930,1.3,TTO
+Trinidad and Tobago,1940,0.0,TTO
+Trinidad and Tobago,1950,0.0,TTO
+Trinidad and Tobago,1960,2.4,TTO
+Trinidad and Tobago,1970,0.2,TTO
+Trinidad and Tobago,1980,0.0,TTO
+Trinidad and Tobago,1990,0.5,TTO
+Trinidad and Tobago,2000,0.3,TTO
+Trinidad and Tobago,2010,0.0,TTO
+Trinidad and Tobago,2020,0.0,TTO
+Tunisia,1900,0.0,TUN
+Tunisia,1910,0.0,TUN
+Tunisia,1920,0.0,TUN
+Tunisia,1930,0.0,TUN
+Tunisia,1940,0.0,TUN
+Tunisia,1950,1.3,TUN
+Tunisia,1960,62.9,TUN
+Tunisia,1970,11.1,TUN
+Tunisia,1980,14.0,TUN
+Tunisia,1990,3.7,TUN
+Tunisia,2000,4.1,TUN
+Tunisia,2010,0.6,TUN
+Tunisia,2020,1.6666666,TUN
+Turkey,1900,640.0,TUR
+Turkey,1910,492.3,TUR
+Turkey,1920,36.3,TUR
+Turkey,1930,3384.4,TUR
+Turkey,1940,1478.2,TUR
+Turkey,1950,181.8,TUR
+Turkey,1960,295.7,TUR
+Turkey,1970,841.2,TUR
+Turkey,1980,161.2,TUR
+Turkey,1990,1964.3,TUR
+Turkey,2000,58.9,TUR
+Turkey,2010,77.5,TUR
+Turkey,2020,8898.333,TUR
+Turkmenistan,1900,0.0,TKM
+Turkmenistan,1910,0.0,TKM
+Turkmenistan,1920,0.0,TKM
+Turkmenistan,1930,0.0,TKM
+Turkmenistan,1940,0.0,TKM
+Turkmenistan,1950,0.0,TKM
+Turkmenistan,1960,0.0,TKM
+Turkmenistan,1970,0.0,TKM
+Turkmenistan,1980,0.0,TKM
+Turkmenistan,1990,0.0,TKM
+Turkmenistan,2000,1.1,TKM
+Turkmenistan,2010,0.0,TKM
+Turkmenistan,2020,0.0,TKM
+Turks and Caicos Islands,1900,0.0,TCA
+Turks and Caicos Islands,1910,0.0,TCA
+Turks and Caicos Islands,1920,0.0,TCA
+Turks and Caicos Islands,1930,0.0,TCA
+Turks and Caicos Islands,1940,0.0,TCA
+Turks and Caicos Islands,1950,0.0,TCA
+Turks and Caicos Islands,1960,0.0,TCA
+Turks and Caicos Islands,1970,0.0,TCA
+Turks and Caicos Islands,1980,0.0,TCA
+Turks and Caicos Islands,1990,0.0,TCA
+Turks and Caicos Islands,2000,0.4,TCA
+Turks and Caicos Islands,2010,0.0,TCA
+Turks and Caicos Islands,2020,0.0,TCA
+Tuvalu,1900,0.0,TUV
+Tuvalu,1910,0.0,TUV
+Tuvalu,1920,0.0,TUV
+Tuvalu,1930,0.0,TUV
+Tuvalu,1940,0.0,TUV
+Tuvalu,1950,0.0,TUV
+Tuvalu,1960,0.0,TUV
+Tuvalu,1970,0.6,TUV
+Tuvalu,1980,0.0,TUV
+Tuvalu,1990,0.0,TUV
+Tuvalu,2000,0.0,TUV
+Tuvalu,2010,0.0,TUV
+Tuvalu,2020,0.0,TUV
+Uganda,1900,0.0,UGA
+Uganda,1910,0.0,UGA
+Uganda,1920,0.0,UGA
+Uganda,1930,0.0,UGA
+Uganda,1940,0.0,UGA
+Uganda,1950,0.0,UGA
+Uganda,1960,10.4,UGA
+Uganda,1970,0.0,UGA
+Uganda,1980,0.0,UGA
+Uganda,1990,14.6,UGA
+Uganda,2000,31.4,UGA
+Uganda,2010,77.1,UGA
+Uganda,2020,478.33334,UGA
+Ukraine,1900,0.0,UKR
+Ukraine,1910,0.0,UKR
+Ukraine,1920,0.0,UKR
+Ukraine,1930,0.0,UKR
+Ukraine,1940,0.0,UKR
+Ukraine,1950,0.0,UKR
+Ukraine,1960,0.0,UKR
+Ukraine,1970,0.0,UKR
+Ukraine,1980,0.0,UKR
+Ukraine,1990,3.8,UKR
+Ukraine,2000,89.2,UKR
+Ukraine,2010,28.0,UKR
+Ukraine,2020,6.8333335,UKR
+United Arab Emirates,1900,0.0,ARE
+United Arab Emirates,1910,0.0,ARE
+United Arab Emirates,1920,0.0,ARE
+United Arab Emirates,1930,0.0,ARE
+United Arab Emirates,1940,0.0,ARE
+United Arab Emirates,1950,0.0,ARE
+United Arab Emirates,1960,0.0,ARE
+United Arab Emirates,1970,0.0,ARE
+United Arab Emirates,1980,0.0,ARE
+United Arab Emirates,1990,0.0,ARE
+United Arab Emirates,2000,0.0,ARE
+United Arab Emirates,2010,0.0,ARE
+United Arab Emirates,2020,0.6666667,ARE
+United Kingdom,1900,0.0,GBR
+United Kingdom,1910,0.0,GBR
+United Kingdom,1920,2.3,GBR
+United Kingdom,1930,0.0,GBR
+United Kingdom,1940,0.0,GBR
+United Kingdom,1950,403.4,GBR
+United Kingdom,1960,16.0,GBR
+United Kingdom,1970,3.0,GBR
+United Kingdom,1980,7.2,GBR
+United Kingdom,1990,22.1,GBR
+United Kingdom,2000,38.4,GBR
+United Kingdom,2010,178.0,GBR
+United Kingdom,2020,1410.8334,GBR
+United States,1900,783.0,USA
+United States,1910,203.7,USA
+United States,1920,344.3,USA
+United States,1930,389.3,USA
+United States,1940,147.3,USA
+United States,1950,289.9,USA
+United States,1960,361.7,USA
+United States,1970,254.8,USA
+United States,1980,382.2,USA
+United States,1990,349.2,USA
+United States,2000,410.6,USA
+United States,2010,305.3,USA
+United States,2020,645.3333,USA
+United States Virgin Islands,1900,0.0,VIR
+United States Virgin Islands,1910,0.0,VIR
+United States Virgin Islands,1920,0.0,VIR
+United States Virgin Islands,1930,1.5,VIR
+United States Virgin Islands,1940,0.0,VIR
+United States Virgin Islands,1950,0.0,VIR
+United States Virgin Islands,1960,0.0,VIR
+United States Virgin Islands,1970,0.0,VIR
+United States Virgin Islands,1980,0.0,VIR
+United States Virgin Islands,1990,1.0,VIR
+United States Virgin Islands,2000,0.0,VIR
+United States Virgin Islands,2010,0.7,VIR
+United States Virgin Islands,2020,0.0,VIR
+Uruguay,1900,0.0,URY
+Uruguay,1910,0.0,URY
+Uruguay,1920,0.0,URY
+Uruguay,1930,0.0,URY
+Uruguay,1940,0.0,URY
+Uruguay,1950,0.0,URY
+Uruguay,1960,0.8,URY
+Uruguay,1970,0.0,URY
+Uruguay,1980,0.0,URY
+Uruguay,1990,0.3,URY
+Uruguay,2000,1.9,URY
+Uruguay,2010,1.4,URY
+Uruguay,2020,1.5,URY
+Uzbekistan,1900,0.0,UZB
+Uzbekistan,1910,0.0,UZB
+Uzbekistan,1920,0.0,UZB
+Uzbekistan,1930,0.0,UZB
+Uzbekistan,1940,0.0,UZB
+Uzbekistan,1950,0.0,UZB
+Uzbekistan,1960,0.0,UZB
+Uzbekistan,1970,0.0,UZB
+Uzbekistan,1980,0.0,UZB
+Uzbekistan,1990,3.4,UZB
+Uzbekistan,2000,0.0,UZB
+Uzbekistan,2010,1.3,UZB
+Uzbekistan,2020,2.8333333,UZB
+Vanuatu,1900,0.0,VUT
+Vanuatu,1910,0.0,VUT
+Vanuatu,1920,0.0,VUT
+Vanuatu,1930,0.0,VUT
+Vanuatu,1940,0.0,VUT
+Vanuatu,1950,10.0,VUT
+Vanuatu,1960,0.0,VUT
+Vanuatu,1970,0.4,VUT
+Vanuatu,1980,5.8,VUT
+Vanuatu,1990,5.0,VUT
+Vanuatu,2000,0.4,VUT
+Vanuatu,2010,2.3,VUT
+Vanuatu,2020,2.8333333,VUT
+Venezuela,1900,0.0,VEN
+Venezuela,1910,0.0,VEN
+Venezuela,1920,0.0,VEN
+Venezuela,1930,0.0,VEN
+Venezuela,1940,0.0,VEN
+Venezuela,1950,10.0,VEN
+Venezuela,1960,27.0,VEN
+Venezuela,1970,0.0,VEN
+Venezuela,1980,27.4,VEN
+Venezuela,1990,3023.2,VEN
+Venezuela,2000,16.5,VEN
+Venezuela,2010,7.4,VEN
+Venezuela,2020,37.666668,VEN
+Vietnam,1900,0.0,VNM
+Vietnam,1910,0.0,VNM
+Vietnam,1920,0.0,VNM
+Vietnam,1930,0.0,VNM
+Vietnam,1940,0.0,VNM
+Vietnam,1950,105.6,VNM
+Vietnam,1960,743.1,VNM
+Vietnam,1970,52.3,VNM
+Vietnam,1980,412.4,VNM
+Vietnam,1990,777.8,VNM
+Vietnam,2000,342.8,VNM
+Vietnam,2010,136.7,VNM
+Vietnam,2020,156.83333,VNM
+Wallis and Futuna,1900,0.0,WLF
+Wallis and Futuna,1910,0.0,WLF
+Wallis and Futuna,1920,0.0,WLF
+Wallis and Futuna,1930,0.0,WLF
+Wallis and Futuna,1940,0.0,WLF
+Wallis and Futuna,1950,0.0,WLF
+Wallis and Futuna,1960,0.0,WLF
+Wallis and Futuna,1970,0.0,WLF
+Wallis and Futuna,1980,0.1,WLF
+Wallis and Futuna,1990,0.5,WLF
+Wallis and Futuna,2000,0.0,WLF
+Wallis and Futuna,2010,0.0,WLF
+Wallis and Futuna,2020,0.0,WLF
+West Germany,1900,0.0,DEU
+West Germany,1910,0.0,DEU
+West Germany,1920,0.0,DEU
+West Germany,1930,0.0,DEU
+West Germany,1940,0.0,DEU
+West Germany,1950,0.0,DEU
+West Germany,1960,34.9,DEU
+West Germany,1970,13.9,DEU
+West Germany,1980,2.1,DEU
+West Germany,1990,0.0,DEU
+West Germany,2000,0.0,DEU
+West Germany,2010,0.0,DEU
+West Germany,2020,0.0,DEU
+Yemen,1900,0.0,YEM
+Yemen,1910,0.0,YEM
+Yemen,1920,0.0,YEM
+Yemen,1930,0.0,YEM
+Yemen,1940,0.0,YEM
+Yemen,1950,0.0,YEM
+Yemen,1960,0.0,YEM
+Yemen,1970,0.0,YEM
+Yemen,1980,0.0,YEM
+Yemen,1990,45.6,YEM
+Yemen,2000,44.8,YEM
+Yemen,2010,25.3,YEM
+Yemen,2020,169.5,YEM
+Yemen Arab Republic,1900,0.0,YEM
+Yemen Arab Republic,1910,0.0,YEM
+Yemen Arab Republic,1920,0.0,YEM
+Yemen Arab Republic,1930,0.0,YEM
+Yemen Arab Republic,1940,120.0,YEM
+Yemen Arab Republic,1950,0.0,YEM
+Yemen Arab Republic,1960,0.0,YEM
+Yemen Arab Republic,1970,11.2,YEM
+Yemen Arab Republic,1980,154.5,YEM
+Yemen Arab Republic,1990,0.0,YEM
+Yemen Arab Republic,2000,0.0,YEM
+Yemen Arab Republic,2010,0.0,YEM
+Yemen Arab Republic,2020,0.0,YEM
+Yemen People's Republic,1900,0.0,YEM
+Yemen People's Republic,1910,0.0,YEM
+Yemen People's Republic,1920,0.0,YEM
+Yemen People's Republic,1930,0.0,YEM
+Yemen People's Republic,1940,0.0,YEM
+Yemen People's Republic,1950,0.0,YEM
+Yemen People's Republic,1960,0.0,YEM
+Yemen People's Republic,1970,0.0,YEM
+Yemen People's Republic,1980,50.7,YEM
+Yemen People's Republic,1990,0.0,YEM
+Yemen People's Republic,2000,0.0,YEM
+Yemen People's Republic,2010,0.0,YEM
+Yemen People's Republic,2020,0.0,YEM
+Zambia,1900,0.0,ZMB
+Zambia,1910,0.0,ZMB
+Zambia,1920,0.0,ZMB
+Zambia,1930,0.0,ZMB
+Zambia,1940,0.0,ZMB
+Zambia,1950,0.0,ZMB
+Zambia,1960,0.0,ZMB
+Zambia,1970,1.1,ZMB
+Zambia,1980,0.0,ZMB
+Zambia,1990,0.0,ZMB
+Zambia,2000,6.0,ZMB
+Zambia,2010,1.3,ZMB
+Zambia,2020,1.0,ZMB
+Zimbabwe,1900,0.0,ZWE
+Zimbabwe,1910,0.0,ZWE
+Zimbabwe,1920,0.0,ZWE
+Zimbabwe,1930,0.0,ZWE
+Zimbabwe,1940,0.0,ZWE
+Zimbabwe,1950,0.0,ZWE
+Zimbabwe,1960,0.0,ZWE
+Zimbabwe,1970,1.1,ZWE
+Zimbabwe,1980,0.0,ZWE
+Zimbabwe,1990,3.6,ZWE
+Zimbabwe,2000,12.0,ZWE
+Zimbabwe,2010,108.5,ZWE
+Zimbabwe,2020,0.8333333,ZWE

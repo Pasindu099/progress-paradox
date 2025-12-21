@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Quarto
+/.quarto/
+/_site/
+
+# OS
+.DS_Store
+Thumbs.db
