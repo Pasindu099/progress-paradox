@@ -17,8 +17,27 @@ execute:
 jupyter: python3
 ---
 
+# Why do countries borrow money? Is it bad to borrow money?
 
-# Introduction
+For economic stability and crisis management
+Financial assistance: IMF supports countries in crises, giving time to restore stability.
+Precautionary financing: Helps insure against future crises.
+Coordination: Ensures aid is used effectively and prevents excessive debt.
+
+
+For long-term development
+Infrastructure & human capital: Funds projects in transport, education, and healthcare.
+Trade & integration: WTO’s “Aid for Trade” helps countries join global markets.
+Technical assistance: Supports governments in planning and executing programs.
+
+
+# What is quality of life according to World Bank?
+
+According to the World Bank, a good quality of life is a multidimensional concept that extends beyond just income to include factors like health, education, access to essential services, environmental quality, security, and personal well-being. It is achieved when individuals and societies have the opportunity to build and draw on their human capital through learning, work, and social participation, leading to greater resilience and overall satisfaction.
+
+#So which continent receives the highest money for development?
+
+# Introduction to health concerns that infrastructure has bought 
 
 Over the past two decades, global health outcomes have improved significantly across many dimensions.
 Life expectancy has increased worldwide, child and infant mortality rates have declined, and access
@@ -29,6 +48,154 @@ rates have risen globally, driven by urbanization, changing diets, and increasin
 lifestyles. This section examines this **double-edged nature of progress**, where development solves
 long-standing health problems while simultaneously introducing new health risks.
 
+# On the contrary...
+From the data it is clear that despite the popular belief amongst the masses. It is not African continent that receives the highest amount of ODA funding from world bank. It is actually the Asian continent that receives the highest funding.
+
+---
+title: "Share of Global Infrastructure ODA by Region"
+author: "Nitin Theegala"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show code"
+jupyter: python3
+---
+
+## Overview
+
+This visualization shows the **share of global infrastructure Official Development Assistance (ODA)** by major world regions over time, using a stacked area chart.
+
+---
+
+## Load Libraries
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+
+# Top 5 countries without electricity
+1990: African nations dominate the highest rates without electricity (Rwanda at 97.8%), followed by Asian nations like Nepal and Laos.
+2000: Liberia rises to the top at 97.9%, with Burundi and Chad remaining high.
+2010: Improvements begin to show; however, Burundi and Chad still lead with more than 90% lacking access.
+2020: Though Africa remains most affected, the percentages shrink. Burundi and Chad continue to rank high, but lower than previous decades.
+
+---
+title: "Top Countries Without Electricity Access"
+subtitle: "Treemap by Continent and Decade"
+author: "Nitin Theegala"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show Python code"
+jupyter: python3
+---
+
+## Objective
+
+This analysis identifies the **top 5 countries with the highest percentage of population without access to electricity**, grouped by:
+
+- **Decade**
+- **Continent**
+- **Country**
+
+The result is visualized as a **hierarchical treemap**:
+**World → Decade → Continent → Country**
+
+---
+
+## Load Libraries
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+# Renewable energy production over the years comprising different continents 
+
+Renewable electricity generation has increased significantly in all regions over time, especially since the early 2000s.
+Hydro power remains the main renewable source across most continents.
+Wind and solar power grow dramatically in recent decades, driving most of the modern increase.
+
+---
+title: "Renewable Electricity Production by Continent"
+subtitle: "Stacked Area Analysis (Static & Interactive)"
+author: "Nitin Theegala"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show Python code"
+jupyter: python3
+---
+
+## Objective
+
+This report visualizes **renewable electricity production (TWh)** by source  
+(**Wind, Hydro, Solar, Bioenergy/Other**) across **six continents**, using:
+
+- Static **Matplotlib** small multiples (publication-ready)
+- Interactive **Plotly** stacked area charts (exploration-ready)
+
+Data source: *modern-renewable-prod.csv*
+
+---
+
+## Load Libraries
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+import plotly.express as px
+
+
+# Rail Passenger-km growth by region 
+Rail passenger-km grew most strongly in East Asia & Pacific, more than doubling by 2005. North America and South Asia saw modest growth of around 20%, while Europe remained relatively flat. Middle East & Central Asia declined overall, indicating reduced rail usage through most of the period.
+
+---
+title: "Renewable Electricity Production by Continent"
+subtitle: "Interactive Stacked Area Chart"
+author: "Nitin Theegala"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show Python code"
+jupyter: python3
+---
+
+## Objective
+
+This visualization explores **renewable electricity production (TWh)** across continents,
+broken down by source:
+
+- Wind  
+- Hydro  
+- Solar  
+- Bioenergy / Other  
+
+The chart is **interactive**, faceted by continent, and designed for
+**trend exploration and comparison**.
+
+---
+
+## Load Libraries
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+
+
+
+# Health Outcomes and the Global Progress Paradox
+ 
+Infrastructure development has long been associated with improved living conditions and better health outcomes. Increased access to clean water, electricity, healthcare facilities, and sanitation has contributed to longer life expectancy and reduced mortality worldwide.
+
+However, improvements in health have not been uniform, nor have they been without unintended consequences. This section examines how global health outcomes have evolved alongside development and highlights the emerging paradox between longevity and modern health burdens.
+
+## Uneven Health Outcomes Across the World
+
+Before analyzing trends over time, it is essential to understand how key health indicators are distributed globally. While some countries experience consistently high life expectancy and low mortality, others continue to face severe health challenges.
+
+The following distributions illustrate the global spread of major health indicators, including life expectancy, mortality rates, obesity prevalence, and access to clean water.
 
 
 
@@ -51,83 +218,6 @@ df_final = pd.read_csv("./data/processed/merged_final_clean.csv")
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Health Outcomes and the Global Progress Paradox
- 
-Infrastructure development has long been associated with improved living conditions and better health outcomes. Increased access to clean water, electricity, healthcare facilities, and sanitation has contributed to longer life expectancy and reduced mortality worldwide.
-
-However, improvements in health have not been uniform, nor have they been without unintended consequences. This section examines how global health outcomes have evolved alongside development and highlights the emerging paradox between longevity and modern health burdens.
-
-## Uneven Health Outcomes Across the World
-
-Before analyzing trends over time, it is essential to understand how key health indicators are distributed globally. While some countries experience consistently high life expectancy and low mortality, others continue to face severe health challenges.
-
-The following distributions illustrate the global spread of major health indicators, including life expectancy, mortality rates, obesity prevalence, and access to clean water.
 
 
 ```{python}
